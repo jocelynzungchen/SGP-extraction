@@ -6,12 +6,12 @@ eg. talk: V to n | 說話: 跟 n V, example pattern instance: talk to people | �
 
 ### File Description
 data/:
-> **alignment_table_all_final.json**: phrase table
+> **alignment_table_all_final.json**: phrase table\
   Format：dict[en_word][ch_word] = count
   
 > **crf_model_passive.joblib**: crf model (to automatically identify English grammar patterns for a given sentence)
 
-> **ch_pat_count.json**: manual annotated data
+> **ch_pat_count.json**: manual annotated data\
   Format：dict[ch_pattern] = count
   
 > **cobuild_all_patterns.txt**: all grammar patterns listed in GRAMMAR PATTERN 1: VERBS
@@ -31,5 +31,9 @@ code:
 <img src="https://github.com/jocelynzungchen/SGP-extraction/blob/master/images/method_part1.png" width="50%" height="50%">
 2. Extract SGPs from parallel corpus (Discover the counterpart of the identified English grammar patterns)
 <img src="https://github.com/jocelynzungchen/SGP-extraction/blob/master/images/method_part2.png" width="50%" height="50%">
+- obtain aligned Chinese tokens by using fast_align, and filter out those that are not in the phrase table
+- obtain Chinese pos tags by using CKIP, and simplify into Chinese grammar patterns
+- filter out Chinese grammar patterns that are not in the annotated data
+3. filter out SGP pairs with low frequency and select good example sentences using GDEX
 
 ### Execution
