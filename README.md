@@ -28,8 +28,8 @@ code:
 
 ### Method Flow
 1. Train a crf model to identify English grammar patterns for a given sentence
-<img src="https://github.com/jocelynzungchen/SGP-extraction/blob/master/images/method_part1.png" width="100" height="100">
+<img src="https://github.com/jocelynzungchen/SGP-extraction/blob/master/images/method_part1.png" width="50%" height="50%">
 2. Extract SGPs from parallel corpus (Discover the counterpart of the identified English grammar patterns)
-<img src="https://github.com/jocelynzungchen/SGP-extraction/blob/master/images/method_part2.png" width="100" height="100">
+<img src="https://github.com/jocelynzungchen/SGP-extraction/blob/master/images/method_part2.png" width="50%" height="50%">
 
 ### Execution
