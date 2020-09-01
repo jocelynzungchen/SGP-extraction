@@ -31,9 +31,11 @@ code:
 <img src="https://github.com/jocelynzungchen/SGP-extraction/blob/master/images/method_part1.png" width="50%" height="50%">
 2. Extract SGPs from parallel corpus (Discover the counterpart of the identified English grammar patterns)
 <img src="https://github.com/jocelynzungchen/SGP-extraction/blob/master/images/method_part2.png" width="50%" height="50%">
+
 * obtain aligned Chinese tokens by using fast_align, and filter out those that are not in the phrase table
 * obtain Chinese pos tags by using CKIP, and simplify into Chinese grammar patterns
 * filter out Chinese grammar patterns that are not in the annotated data
+
 3. filter out SGP pairs with low frequency and select good example sentences using GDEX
 
 ### Execution
