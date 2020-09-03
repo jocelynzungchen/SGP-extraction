@@ -2,8 +2,8 @@
 
 ### Overview
 This is a project to extract Synchronous Grammar Patterns (SGP) pairs of English and Chinese\
-eg. talk: V to n | 說話: 跟 n V\
-example pattern instance: talk to people | 跟 人 說話
+eg. `talk: V to n | 說話: 跟 n V\`
+example pattern instance: `talk to people | 跟 人 說話`
 
 ### File Description
 data/:
