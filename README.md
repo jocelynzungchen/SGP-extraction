@@ -46,7 +46,7 @@ Code:
 
 
 ### Other File Description
-> **build_phrase_table.ipynb**: build a phrase table
+> **build_phrase_table.ipynb**: build a phrase table\
 -> output file: **alignment_table_all_final.json** \
   Format：dict[en_word][ch_word] = count
 
