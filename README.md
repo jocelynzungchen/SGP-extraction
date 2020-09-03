@@ -28,6 +28,7 @@ code:
 > **phrase_table.py**: operations of the phrase table\
 > **get_ch_patterns.py**: functions to get the Chinese counterpart of the English pattern instance\
 > **data_process.py**: some data process for SGP.py\
+> **GDEX.py**: calculate the GDEX score and rank the example pairs
 
 ### Method Flow
 1. Train a crf model to identify English grammar patterns for a given sentence
