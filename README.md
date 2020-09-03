@@ -17,7 +17,7 @@ Code:
 > **pattern_recognition.ipynb**: build the crf model for automatically identifying English grammar patterns
 
 Output:
-> **crf_model_passive.joblib**: crf model (to automatically identify English grammar patterns for a given sentence)
+> **crf_model_passive.pkl**: crf model (to automatically identify English grammar patterns for a given sentence)
 
 <br>
 2. Extract SGPs from parallel corpus (discover the counterpart of the identified English grammar patterns)
@@ -46,12 +46,12 @@ Code:
 
 
 ### Other File Description
-> **alignment_table_all_final.json**: phrase table\
+> **build_phrase_table.ipynb**: build a phrase table
+-> output file: **alignment_table_all_final.json** \
   Format：dict[en_word][ch_word] = count
-  
-> **crf_model_passive.joblib**: crf model (to automatically identify English grammar patterns for a given sentence)
 
-> **ch_pat_count.json**: manual annotated data\
+> **annotation_final**: manual annotated data(original)\
+> **ch_pat_count.json**: annotated data being calculated\
   Format：dict[ch_pattern] = count
   
 > **cobuild_all_patterns.txt**: all grammar patterns listed in GRAMMAR PATTERN 1: VERBS
