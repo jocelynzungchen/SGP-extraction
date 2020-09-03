@@ -21,15 +21,18 @@ data/:
 > **common_words.txt**: English common words. For calculating GDEX socre.
 
 code:
-> **build_model.ipynb**: main program to extract SGP pairs\
+> **build_SGP_model.ipynb**: execution example\
 > **build_phrase_table.ipynb**: build the phrase table\
-> **data_format_transform.py**: some data process for build_model.ipynb\
 > **pattern_recognition.ipynb**: build the crf model for automatically identifying English grammar patterns
+> **SGP.py**: define functions to extract SGP\
+> **phrase_table.py**: operations of the phrase table\
+> **get_ch_patterns.py**: functions to get the Chinese counterpart of the English pattern instance\
+> **data_process.py**: some data process for SGP.py\
 
 ### Method Flow
 1. Train a crf model to identify English grammar patterns for a given sentence
 <img src="https://github.com/jocelynzungchen/SGP-extraction/blob/master/images/method_part1.png" width="50%" height="50%">
-2. Extract SGPs from parallel corpus (Discover the counterpart of the identified English grammar patterns)
+2. Extract SGPs from parallel corpus (discover the counterpart of the identified English grammar patterns)
 <img src="https://github.com/jocelynzungchen/SGP-extraction/blob/master/images/method_part2.png" width="50%" height="50%">
 
 * obtain aligned Chinese tokens by using fast_align, and filter out those that are not in the phrase table
@@ -39,3 +42,5 @@ code:
 3. filter out SGP pairs with low frequency and select good example sentences using GDEX
 
 ### Execution
+
+follow the steps in **build_SGP_model.ipynb**.
