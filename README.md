@@ -35,19 +35,22 @@ code:
 1. Train a crf model to identify English grammar patterns for a given sentence
 <img src="https://github.com/jocelynzungchen/SGP-extraction/blob/master/images/method_part1.png" width="50%" height="50%">
 
-Input:\
-> **seq_label_data_v2.txt**: processed data from GRAMMAR PATTERN & Collins Online Dictionary\
-Code:\
-> **pattern_recognition.ipynb**: build the crf model for automatically identifying English grammar patterns\
-Output:\
+Input:
+> **seq_label_data_v2.txt**: processed data from GRAMMAR PATTERN & Collins Online Dictionary
+
+Code:
+> **pattern_recognition.ipynb**: build the crf model for automatically identifying English grammar patterns
+
+Output:
 > **crf_model_passive.joblib**: crf model (to automatically identify English grammar patterns for a given sentence)
 
 2. Extract SGPs from parallel corpus (discover the counterpart of the identified English grammar patterns)
 <img src="https://github.com/jocelynzungchen/SGP-extraction/blob/master/images/method_part2.png" width="50%" height="50%">
 
-Input:\
+Input:
 > **cambridge_align.txt, cambridge.align, cambridge_ch_pos.txt**: sentence, alignment, Chinese pos tag by CKIP
-Code:\
+
+Code:
 > **build_SGP_model.ipynb**: execution example\
 > **SGP.py**: define functions to extract SGP\
 > **phrase_table.py**: operations of the phrase table\
@@ -60,7 +63,7 @@ Code:\
 
 3. filter out SGP pairs with low frequency and select good example sentences using GDEX
 
-Code:\
+Code:
 > **pattern_recognition.ipynb**: build the crf model for automatically identifying English grammar patterns
 
 ### Execution
