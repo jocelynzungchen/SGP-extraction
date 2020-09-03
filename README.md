@@ -17,7 +17,7 @@ Code:
 > **pattern_recognition.ipynb**: build the crf model for automatically identifying English grammar patterns
 
 Output:
-> **crf_model_passive.joblib**: crf model (to automatically identify English grammar patterns for a given sentence)<br><br>
+> **crf_model_passive.joblib**: crf model (to automatically identify English grammar patterns for a given sentence)
 
 <br>
 2. Extract SGPs from parallel corpus (discover the counterpart of the identified English grammar patterns)
