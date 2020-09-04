@@ -37,7 +37,7 @@ Code:
 > **get_ch_patterns.py**: functions to get the Chinese counterpart of the English pattern instance\
 > **data_process.py**: some data process for SGP.py
 
-
+<br>
 3. filter out SGP pairs with low frequency and select good example sentences using GDEX
 
 Code:
