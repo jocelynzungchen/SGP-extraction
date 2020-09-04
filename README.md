@@ -47,23 +47,23 @@ Code:
 
 
 ### Other File Description
-> **build_phrase_table.ipynb**: build a phrase table\
--> output file: **alignment_table_all_final.json** \
+> `build_phrase_table.ipynb`: build a phrase table\
+-> output file: `alignment_table_all_final.json` \
   Format：dict[en_word][ch_word] = count
 
-> **annotation_final**: manual annotated data(original)\
-> **ch_pat_count.json**: annotated data being calculated\
+> `annotation_final`: manual annotated data(original)\
+> `ch_pat_count.json`: annotated data being calculated\
   Format：dict[ch_pattern] = count
   
-> **cobuild_all_patterns.txt**: all grammar patterns listed in GRAMMAR PATTERN 1: VERBS
+> `cobuild_all_patterns.txt`: all grammar patterns listed in GRAMMAR PATTERN 1: VERBS
 
-> **annotation_prep.txt**: Chinese prepositions that appears in annotated data(ch_pat_count.json)
+> `annotation_prep.txt`: Chinese prepositions that appears in annotated data(ch_pat_count.json)
 
-> **common_words.txt**: English common words. For calculating GDEX socre.
+> `common_words.txt`: English common words. For calculating GDEX socre.
 
 
 ### Execution
 
-follow the steps in **build_SGP_model.ipynb**.
+follow the steps in `build_SGP_model.ipynb`.
 
-All files are on the server. path: jedi:/home/nlplab/jocelyn/SGP-extraction
+All files are on the server. path: `jedi:/home/nlplab/jocelyn/SGP-extraction`
