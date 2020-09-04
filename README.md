@@ -24,6 +24,7 @@ Output:
 <img src="https://github.com/jocelynzungchen/SGP-extraction/blob/master/images/method_part2.png" width="50%" height="50%">
 
 * obtain aligned Chinese tokens by using fast_align, and filter out those that are not in the phrase table
+* re-align English prepositions by Stanfordnlp
 * obtain Chinese pos tags by using CKIP, and simplify into Chinese grammar patterns
 * filter out Chinese grammar patterns that are not in the annotated data
 
