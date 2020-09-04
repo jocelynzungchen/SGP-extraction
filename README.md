@@ -29,41 +29,41 @@ Output:
 * filter out Chinese grammar patterns that are not in the annotated data
 
 Input:
-> `**cambridge_align.txt, cambridge.align, cambridge_ch_pos.txt**`: sentence, alignment, Chinese pos tag by CKIP
+> **`cambridge_align.txt, cambridge.align, cambridge_ch_pos.txt`**: sentence, alignment, Chinese pos tag by CKIP
 
 Code:
-> `**build_SGP_model.ipynb**`: execution example\
-> `**SGP.py**`: define functions to extract SGP\
-> `**phrase_table.py**`: operations of the phrase table\
-> `**get_ch_patterns.py**`: functions to get the Chinese counterpart of the English pattern instance\
-> `**data_process.py**`: some data process for SGP.py
+> **`build_SGP_model.ipynb`**: execution example\
+> **`SGP.py`**: define functions to extract SGP\
+> **`phrase_table.py`**: operations of the phrase table\
+> **`get_ch_patterns.py`**: functions to get the Chinese counterpart of the English pattern instance\
+> **`data_process.py`**: some data process for SGP.py
 
 <br>
 3. filter out SGP pairs with low frequency and select good example sentences using GDEX
 
 Code:
-> `**build_SGP_model.ipynb**`: execution example\
-> `**GDEX.py**`: calculate the GDEX score and rank the example pairs
+> **`build_SGP_model.ipynb`**: execution example\
+> **`GDEX.py`**: calculate the GDEX score and rank the example pairs
 
 
 ### Other File Description
-> `**build_phrase_table.ipynb**`: build a phrase table\
--> output file: `**alignment_table_all_final.json**` \
+> **`build_phrase_table.ipynb`**: build a phrase table\
+-> output file: **`alignment_table_all_final.json`** \
   Format：dict[en_word][ch_word] = count
 
-> `**annotation_final**`: manual annotated data(original)\
-> `**ch_pat_count.json**`: annotated data being calculated\
+> **`annotation_final`**: manual annotated data(original)\
+> **`ch_pat_count.json`**: annotated data being calculated\
   Format：dict[ch_pattern] = count
   
-> `**cobuild_all_patterns.txt**`: all grammar patterns listed in GRAMMAR PATTERN 1: VERBS
+> **`cobuild_all_patterns.txt`**: all grammar patterns listed in GRAMMAR PATTERN 1: VERBS
 
-> `**annotation_prep.txt**`: Chinese prepositions that appears in annotated data(ch_pat_count.json)
+> **`annotation_prep.txt`**: Chinese prepositions that appears in annotated data(ch_pat_count.json)
 
-> `**common_words.txt**`: English common words. For calculating GDEX socre.
+> **`common_words.txt`**: English common words. For calculating GDEX socre.
 
 
 ### Execution
 
-follow the steps in `**build_SGP_model.ipynb**`.
+follow the steps in **`build_SGP_model.ipynb`**.
 
-All files are on the server. path: `**jedi:/home/nlplab/jocelyn/SGP-extraction**`
+All files are on the server. path: **`jedi:/home/nlplab/jocelyn/SGP-extraction`**
