@@ -22,7 +22,7 @@ class SGP(object):
         self.i = 0
 
     def load_data(self):
-        with open('data/cobuild_all_patterns.txt') as f1, open('data/crf_model_passive.joblib', 'rb') as f2:
+        with open('data/cobuild_all_patterns.txt') as f1, open('data/crf_model_passive.pkl', 'rb') as f2:
             for line in f1:
                 self.cobuild_all_patterns = eval(line)
             self.crf = joblib.load(f2) # load crf model

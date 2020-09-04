@@ -1,0 +1,1544 @@
+1.1 ||| We were just talking about Gareth's new girlfriend
+1.2 ||| 我們 剛才 在 談論 葛瑞 的 新 女友 。
+1.3 ||| talk about girlfriend ||| talk:V about n
+1.4 ||| 談論 女友 ||| 談論:V n
+
+2.1 ||| The next speaker will be talking about endangered insects
+2.2 ||| 下 一 位 講 者 將 就 瀕危 昆蟲 作 報告 。
+2.3 ||| talk about insects ||| talk:V about n
+2.4 ||| 就 昆蟲 作 報告 ||| 作 報告:就 n V N
+
+3.1 ||| I'm thinking about buying a new car
+3.2 ||| 我 在 考慮 買 輛 新 車 。
+3.3 ||| think about buying ||| think:V about ving
+3.4 ||| 考慮 買 ||| 考慮:V v
+
+4.1 ||| I was just thinking about you when you called
+4.2 ||| 你 來電 時 我 正在 想 你 。
+4.3 ||| think about you ||| think:V about n
+4.4 ||| 想 你 ||| 想:V n
+
+5.1 ||| She thought about him and decided to call
+5.2 ||| 她 想起 他 ， 決定 給 他 打電話 。
+5.3 ||| think about him ||| think:V about n
+5.4 ||| 想起 他 ||| 想起:V n
+
+6.1 ||| I often dream about flying
+6.2 ||| 我 常 夢見 自己 在 飛 。
+6.3 ||| dream about flying ||| dream:V about ving
+6.4 ||| 夢見 飛 ||| 夢見:V v
+
+7.1 ||| She asked about Welsh history
+7.2 ||| 她 問 了 有關 威爾士 歷史 的 問題 。
+7.3 ||| ask about history ||| ask:V about n
+7.4 ||| 問 歷史_的_問題 ||| 問:V n
+
+8.1 ||| Lots of people have complained about the noise
+8.2 ||| 許多 人 抱怨 過 這 噪音 。
+8.3 ||| complain about noise ||| complain:V about n
+8.4 ||| 抱怨 噪音 ||| 抱怨:V n
+
+9.1 ||| It's silly worrying about things which are outside your control
+9.2 ||| 為 自己 無法 掌控 的 事 發愁 是 很 愚蠢 的 。
+9.3 ||| worry about things ||| worry:V about n
+9.4 ||| 為 事 發愁 ||| 發愁:為 n V
+
+10.1 ||| I don’t know how Mary feels about eating meat
+10.2 ||| 我 不 知道 瑪麗 對 吃 肉 有 什麼 看法 。
+10.3 ||| feel about eat ||| feel:V about ving
+10.4 ||| 對 吃 有 看法 ||| 有 看法:對 v V N
+
+11.1 ||| Don’t bother about driving me home I’ll walk
+11.2 ||| 你 不必 麻煩 開車 送 我 回家 ， 我 走路 就 行 了 。
+11.3 ||| bother about driving ||| bother:V about ving
+11.4 ||| 麻煩 開車 ||| 麻煩:V v
+
+12.1 ||| We didn’t learn about the situation until it was too late
+12.2 ||| 我們 得知 情況 時 為時已晚 。
+12.3 ||| learn about situation ||| learn:V about n
+12.4 ||| 得知 情況 ||| 得知:V n
+
+13.1 ||| She had always hankered after thick curly hair
+13.2 ||| 她 過去 一直 渴望 有 一頭 濃密 的 捲  。
+13.3 ||| hanker after hair ||| hanker:V after n
+13.4 ||| 渴望 捲 ||| 渴望:V n
+
+14.1 ||| I chased after the robbers for more than a mile
+14.2 ||| 我 在 那 個 搶匪 後面 追 了 一 英里 多 。
+14.3 ||| chase after robbers ||| chase:V after n
+14.4 ||| 在^後面 搶匪 追 ||| 追:在^後面 n V
+
+15.1 ||| All our household goods are insured against accidental damage
+15.2 ||| 我們 家 裡 所有 的 物品 都 保 了 意外 損失險 。
+15.3 ||| insure against damage ||| insure:V against n
+15.4 ||| 保 損失 險 ||| 保 險:V n V
+
+16.1 ||| They're busy campaigning against the building of a new motorway near here
+16.2 ||| 他們 正 積極 發起 行動 ， 反對 在 附近 新建 高速 公路 。
+16.3 ||| campaign against building ||| campaign:V against n
+16.4 ||| 發起 行動 反對 ||| 發起 行動:V N v
+
+17.1 ||| It's difficult for a small shop to compete against the big supermarkets
+17.2 ||| 小 超市 很 難 與 大 超市 競爭 。
+17.3 ||| compete against supermarkets ||| compete:V against n
+17.4 ||| 與 超市 競爭 ||| 競爭:與 n V
+
+18.1 ||| Turn the music down - I'm not competing against that noise !
+18.2 ||| 把 音樂 調 小聲 一點 —— 我 可 不 想 跟 那 噪音 較量 ！
+18.3 ||| compete against noise ||| compete:V against n
+18.4 ||| 跟 噪音 較量 ||| 較量:跟 n V
+
+19.1 ||| Jacob rebelled against his parents' plans for him and left school at the age of 16
+19.2 ||| 雅各 反抗 父母 替 他 做好 的 計劃 ， 在 16 歲 就 輟學 了 。
+19.3 ||| rebel against plans ||| rebel:V against n
+19.4 ||| 反抗 計劃 ||| 反抗:V n
+
+20.1 ||| I can't believe that he's plotting against his own father
+20.2 ||| 我 難以 相信 他 正 暗中 和 自己 的 父親 作對 。
+20.3 ||| plot against father ||| plot:V against n
+20.4 ||| 和 父親 暗中 作對 ||| 暗中 作對:和 n ADV V
+
+22.1 ||| A big crowd of demonstrators were protesting against cuts in health spending
+22.2 ||| 一 大 群 示威 者 在 抗議 縮減 醫療 保健 費用 。
+22.3 ||| protest against cuts ||| protest:V against n
+22.4 ||| 抗議 縮減 ||| 抗議:V v
+
+24.1 ||| Everyone in the restaurant crowded round them and started singing
+24.2 ||| 餐館 裏 所有 的 人 都 擁 到 他們 周圍 唱 了 起來 。
+24.3 ||| crowd round them ||| crowd:V around/round n
+24.4 ||| 擁 到^周圍 他們 ||| 擁:V 到^周圍 n
+
+25.1 ||| The earth revolves around the sun
+25.2 ||| 地球 圍繞 太陽 轉 。
+25.3 ||| revolve around sun ||| revolve:V around/round n
+25.4 ||| 圍繞 太陽 轉 ||| 圍繞:V n 轉
+
+26.1 ||| The planets revolve around the sun
+26.2 ||| 太陽系 的 行星 繞 著 太陽 旋轉 。
+26.3 ||| revolve around sun ||| revolve:V around/round n
+26.4 ||| 繞 太陽 旋轉 ||| 旋轉:繞 n V
+
+27.1 ||| If we skirt around the field we can avoid the mud
+27.2 ||| 如果 我們 繞過 田野 就 不會 踩到 泥巴 。
+27.3 ||| skirt around field ||| skirt:V around/round n
+27.4 ||| 繞 過 田野 ||| 繞:V 過 n
+
+28.1 ||| As usual he just skirted around the subject
+28.2 ||| 他 像 往常 一樣 對 這 個 問題 避 而 不 談 。
+28.3 ||| skirt around subject ||| skirt:V around/round n
+28.4 ||| 對 問題 避 而 不 談 ||| 避 而 不 談:對 n V [而] ADV V
+
+29.1 ||| She spotted Luke in a group clustered around the entrance
+29.2 ||| 她 在 聚集 於 入口處 的 人群 中 看見 了 盧克 。
+29.3 ||| cluster around entrance ||| cluster:V around/round n
+29.4 ||| 聚集 於 入口處 ||| 聚集:V 於 n
+
+30.1 ||| That counts as a lie as far as I’m concerned
+30.2 ||| 依 我 看 ， 那 算 撒謊 。
+30.3 ||| count as lie ||| count:V as n
+30.4 ||| 算 撒謊 ||| 算:V n
+
+31.1 ||| Andrew qualified as a teacher in 1995
+31.2 ||| 安德魯 於 1995年 取得 教師 資格 。
+31.3 ||| qualify as teacher ||| qualify:V as n
+31.4 ||| 取得 教師 資格 ||| 取得 資格:V n N
+
+32.1 ||| 90% of the boat people did not qualify as refugees
+32.2 ||| 船民 中 有 90％ 根本 稱不上 是 難民 。
+32.3 ||| qualify as refugees ||| qualify:V as n
+32.4 ||| 稱 是 難民 ||| 稱 是:V [是] n
+
+33.1 ||| She worked as a cleaner at the hospital
+33.2 ||| 她 在 醫院 裡 當 清潔 工人 。
+33.3 ||| work as cleaner ||| work:V as n
+33.4 ||| 當 工人 ||| 當:V n
+
+35.1 ||| You speak Greek – will you act as interpreter
+35.2 ||| 你 會 說 希臘語 ， 那 你 能 當 翻譯 嗎 ？
+35.3 ||| act as interpreter ||| act:V as n
+35.4 ||| 當 翻譯 ||| 當:V n
+
+40.1 ||| Sally Palmer will be continuing as chairperson this autumn
+40.2 ||| 薩莉‧帕爾默 今年 秋天 將 繼續 擔任 委員會 主席 。
+40.3 ||| continue as chairperson ||| continue:V as n
+40.4 ||| 繼續 擔任 主席 ||| 繼續:V v n
+
+43.1 ||| It was dark by the time we arrived at the station
+43.2 ||| 我們 到站 時 ， 天 都 已經 黑 了 。
+43.3 ||| arrive at station ||| arrive:V at n
+43.4 ||| 到 站 ||| 到:V n
+
+44.1 ||| Chickens pecked at the seeds which covered the ground
+44.2 ||| 小雞 啄食 著 撒 在 地上 的 種子 。
+44.3 ||| peck at seeds ||| peck:V at n
+44.4 ||| 啄食 種子 ||| 啄食:V n
+
+45.1 ||| The birds pecked at the insect-infested tree
+45.2 ||| 鳥兒 在 生 了 蟲 的 樹 上 啄食 。
+45.3 ||| peck at tree ||| peck:V at n
+45.4 ||| 在^上 樹 啄食 ||| 啄食:在^上 n V
+
+46.1 ||| There's no need to snap at me - it's not my fault that you lost your wallet
+46.2 ||| 何必 對 我 這樣 口 氣 這麼 差 —— 你 丟 了 錢包 又 不 是 我 的 錯 。
+46.3 ||| snap at me ||| snap:V at n
+46.4 ||| 對 我 口氣 差 ||| 口氣 差:對 n N ADJ
+
+47.1 ||| A terrier was snapping at his heels
+47.2 ||| 有 一 隻 狗 正 要 咬 他 的 腳後跟 。
+47.3 ||| snap at heels ||| snap:V at n
+47.4 ||| 咬 腳後跟 ||| 咬:V n
+
+48.1 ||| He works at the hospital
+48.2 ||| 他 在 當地 的 醫院 工作 。
+48.3 ||| work at hospital ||| work:V at n
+48.4 ||| 在 醫院 工作 ||| 工作:在 n V
+
+49.1 ||| Laura winked at me as Stephen turned his back
+49.2 ||| 史蒂芬 轉 過 身 去 的 時候 ， 蘿拉沖 我 眨 了 眨眼 。
+49.3 ||| wink at me ||| wink:V at n
+49.4 ||| 沖 我 眨眼 ||| 眨眼:沖 n V
+
+50.1 ||| For a second I thought he was being serious but then he winked at me
+50.2 ||| 有 一陣 我 以為 他 是 認真 的 ， 但是 隨即 他 就 沖 我 擠 了 擠 眼睛 。
+50.3 ||| wink at me ||| wink:V at n
+50.4 ||| 沖 我 擠 眼睛 ||| 擠 眼睛:沖 n V N
+
+51.1 ||| Reflected in the water the lights winked at us from the other side of the lake
+51.2 ||| 湖 對岸 的 燈光 映 在 水 中 ， 向 我們 一閃一閃 的 。
+51.3 ||| wink at us ||| wink:V at n
+51.4 ||| 向 我們 一閃一閃 ||| 一閃一閃:向 n V
+
+52.1 ||| Marcus winked at me knowingly
+52.2 ||| 馬可斯 會意 地 向 我 眨 了 眨眼 。
+52.3 ||| wink at me ||| wink:V at n
+52.4 ||| 向 我 眨眼 ||| 眨眼:向 n V
+
+54.1 ||| They were shooting at bottles on a wall
+54.2 ||| 他們 朝 牆 上 的 瓶子 射擊 。
+54.3 ||| shoot at bottles ||| shoot:V at n
+54.4 ||| 朝 瓶子 射擊 ||| 射擊:朝 n V
+
+55.1 ||| When our cat is hungry she starts clawing at my legs
+55.2 ||| 我們 家 的 貓 餓 了 就 開始 抓 我 的 腿 。
+55.3 ||| claw at legs ||| claw:V at n
+55.4 ||| 抓 腿 ||| 抓:V n
+
+56.1 ||| You could hear the dog clawing at the door
+56.2 ||| 你 能 聽見 狗 在 門 上 亂抓 。
+56.3 ||| claw at door ||| claw:V at n
+56.4 ||| 在^上 門 抓 ||| 抓:在^上 n V
+
+57.1 ||| Someone started firing at us
+57.2 ||| 有 人 開始 向 我們 射擊 。
+57.3 ||| fire at us ||| fire:V at n
+57.4 ||| 向 我們 射擊 ||| 射擊:向 n V
+
+58.1 ||| Jed lifted his rifle and fired at the target
+58.2 ||| 傑德 舉起 步槍 朝 目標 射擊 。
+58.3 ||| fire at target ||| fire:V at n
+58.4 ||| 朝 目標 射擊 ||| 射擊:朝 n V
+
+59.1 ||| The train now standing at platform 8 is the 1517 for Cardiff
+59.2 ||| 現在 停靠 在 八 號 月臺 的 是 15點17 分 開往 卡迪 夫 的 列車 。
+59.3 ||| stand at platform ||| stand:V at n
+59.4 ||| 停靠 在 月臺 ||| 停靠:V 在 n
+
+60.1 ||| Their house stood at the top of a hill
+60.2 ||| 他們 的 房子 坐落 在 山頂 。
+60.3 ||| stand at top ||| stand:V at n
+60.4 ||| 坐落 在 山頂 ||| 坐落:V 在 n
+
+61.1 ||| Luckily the train was still standing at the platform
+61.2 ||| 幸運 的 是 火車 還 停 在 月台 上 。
+61.3 ||| stand at platform ||| stand:V at n
+61.4 ||| 停 在^上 月台 ||| 停:V 在^上 n
+
+62.1 ||| She’s not intending to stand at the next election
+62.2 ||| 她 下 一 屆 不 打算 參選 。
+62.3 ||| stand at election ||| stand:V at n
+62.4 ||| 參選 ||| 參選:V
+
+64.1 ||| Dad really shouted at me when I broke the window
+64.2 ||| 我 打碎 了 窗戶 後 ， 父親 對 著 我 大吼 大叫 。
+64.3 ||| shout at me ||| shout:V at n
+64.4 ||| 對 我 吼 ||| 吼:對 n V
+
+67.1 ||| He prodded at the fish with his fork a few times but he didn't eat a mouthful
+67.2 ||| 他 用 叉子 戳 了 幾 次 魚 ， 但 一口 也 沒有 吃 。
+67.3 ||| prod at fish ||| prod:V at n
+67.4 ||| 戳 魚 ||| 戳:V n
+
+68.1 ||| He grinned at me from the doorway
+68.2 ||| 他 在 門口 向 我 咧 著 嘴 笑 。
+68.3 ||| grin at me ||| grin:V at n
+68.4 ||| 向 我 笑 ||| 笑:向 n V
+
+69.1 ||| Ruth grinned at him as she waved goodbye
+69.2 ||| 露絲 向 他 咧  笑 著 ， 揮手 告別 。
+69.3 ||| grin at him ||| grin:V at n
+69.4 ||| 向 他 笑 ||| 笑:向 n V
+
+72.1 ||| She grumbles at her employees over the slightest thing
+72.2 ||| 她 為 雞毛蒜皮 的 小 事 向 員工 發牢騷 。
+72.3 ||| grumble at employees ||| grumble:V at n
+72.4 ||| 向 員工 發牢騷 ||| 發牢騷:向 n V
+
+73.1 ||| Prisoners began a hunger strike to protest at their conditions
+73.2 ||| 囚犯 們 開始 絕食 以 抗議 他們 的 生活 條件 。
+73.3 ||| protest at conditions ||| protest:V at n
+73.4 ||| 抗議 條件 ||| 抗議:V n
+
+74.1 ||| Two dogs rushed at Delia growling and baring their teeth
+74.2 ||| 兩 條 狗 撲 向 迪莉雅 ， 咆哮 著 露出 牙齒 。
+74.3 ||| rush at Delia ||| rush:V at n
+74.4 ||| 撲 向 迪莉雅 ||| 撲:V 向 n
+
+75.1 ||| She waved at her parents as the bus pulled away
+75.2 ||| 公車 開動 時 她 向 她 的 父母 揮揮手 。
+75.3 ||| wave at parents ||| wave:V at n
+75.4 ||| 向 父母 揮手 ||| 揮手:向 n V
+
+76.1 ||| The children were asking for drinks
+76.2 ||| 孩子 們 在 要 飲料 。
+76.3 ||| ask for drinks ||| ask:V for n
+76.4 ||| 要 飲料 ||| 要:V n
+
+78.1 ||| How much rice do you allow for each person
+78.2 ||| 你 給 每 人 準備 多少 米飯 ？
+78.3 ||| allow rice for person ||| allow:V n for n
+78.4 ||| 給 人 準備 米飯 ||| 準備:給 n V n
+
+79.1 ||| He signed for the waiter to bring him another drink
+79.2 ||| 他 示意 侍者 再 給 他 一 份 飲料 。
+79.3 ||| sign for waiter ||| sign:V for n
+79.4 ||| 示意 侍者 ||| 示意:V n
+
+80.1 ||| Who is going to speak for the accused
+80.2 ||| 誰將 為 被告 辯護 ？
+80.3 ||| speak for the_accused ||| speak:V for n
+80.4 ||| 為 被告 辯護 ||| 辯護:為 n V
+
+81.1 ||| He's old enough to speak for himself.
+81.2 ||| 他 已經 到 了 能 發表 自己 看法 的 年齡 。
+81.3 ||| speak for himself ||| speak:V for n
+81.4 ||| 發表 自己 看法 ||| 發表:V n
+
+82.1 ||| Janet is speaking for the motion and Peter is speaking against (it)
+82.2 ||| 珍妮 特 發言 支持 這 項 動議 ， 而 彼得 卻 打算 表示 反對 。
+82.3 ||| speak for motion ||| speak:V for n
+82.4 ||| 發言 支持 動議 ||| 發言:V v n
+
+83.1 ||| a world record that stood for nearly 20 years
+83.2 ||| 保持 了 近 20 年 的 世界 紀錄
+83.3 ||| stand for years ||| stand:V for n
+83.4 ||| 保持 年 ||| 保持:V n
+
+84.1 ||| Leave the mixture to stand for 20 minutes
+84.2 ||| 將 混合物 放上 20 分鐘 。
+84.3 ||| stand for minutes ||| stand:V for n
+84.4 ||| 放上 分鐘 ||| 放上:V n
+
+85.1 ||| She earns money sitting for artists
+85.2 ||| 她 靠 給 畫家 做 模特兒 賺錢 。
+85.3 ||| sit for artists ||| sit:V for n
+85.4 ||| 給 畫家 做 模特兒 ||| 做 模特兒:給 n V N
+
+86.1 ||| I’m sitting for the Richardsons tomorrow night
+86.2 ||| 明晚 我 要 替 理查 森 夫婦 看 孩子 。
+86.3 ||| sit for the Richardsons ||| sit:V for n
+86.4 ||| 替 理查_森_夫婦 看 孩子 ||| 看 孩子:替 n V N
+
+88.1 ||| Some people think I'm weird doing meditation but it works for me and that's all that matters
+88.2 ||| 有 些 人 認為 我 進行 冥想 有點 古怪 ， 但 這 對 我 有用 ， 這 才 是 最 重要 的 。
+88.3 ||| work for me ||| work:V for n
+88.4 ||| 對 我 有用 ||| 有用:對 n V
+
+89.1 ||| Mike works for a computer company
+89.2 ||| 麥克 在 一 家 電腦 公司 工作 。
+89.3 ||| work for computer ||| work:V for n
+89.4 ||| 在 公司 工作 ||| 工作:在 n V
+
+90.1 ||| She works for a big law firm in the city
+90.2 ||| 她 在 城 裏 的 一 家 大型 律師 事務所 工作 。
+90.3 ||| work for law ||| work:V for n
+90.4 ||| 在 事務所 工作 ||| 工作:在 n V
+
+92.1 ||| I waited for her outside while she went in to see the doctor
+92.2 ||| 她 進去 看病 時 ， 我 在 外面 等 她 。
+92.3 ||| wait for her ||| wait:V for n
+92.4 ||| 等 她 ||| 等:V n
+
+93.1 ||| He was attacked while he was waiting for a bus
+93.2 ||| 他 在 等 巴士 時 遭到 襲擊 。
+93.3 ||| wait for bus ||| wait:V for n
+93.4 ||| 等 巴士 ||| 等:V n
+
+94.1 ||| I’ve been waiting for a refund cheque for several months
+94.2 ||| 我 盼望 著 退款 支票 已經 有 好幾 個 月 了 。
+94.3 ||| wait for cheque ||| wait:V for n
+94.4 ||| 盼望 支票 ||| 盼望:V n
+
+95.1 ||| There’s a package waiting for you in the office
+95.2 ||| 辦公室 有 一 個 包裹 等 著 你 去 拿 。
+95.3 ||| wait for you ||| wait:V for n
+95.4 ||| 等 你 ||| 等:V n
+
+96.1 ||| It was freezing outside and Marcia longed for a hot drink
+96.2 ||| 外面 很 冷 ， 瑪西雅 很 想 喝 一 杯 熱飲 。
+96.3 ||| long for drink ||| long:V for n
+96.4 ||| 想 喝 熱飲 ||| 想:V v n
+
+97.1 ||| I'm looking for my keys
+97.2 ||| 我 在 找 鎖匙 。
+97.3 ||| look for keys ||| look:V for n
+97.4 ||| 找 鎖匙 ||| 找:V n
+
+98.1 ||| I spent most of the morning looking for my passport
+98.2 ||| 我 幾乎 一 整 個 上午 都 在 找 我 的 護照 。
+98.3 ||| look for passport ||| look:V for n
+98.4 ||| 找 護照 ||| 找:V n
+
+100.1 ||| She groped for her glasses on the bedside table
+100.2 ||| 她 在 床頭櫃 上 摸索 著 找 眼鏡 。
+100.3 ||| grope for glasses ||| grope:V for n
+100.4 ||| 摸索 找 眼鏡 ||| 摸索:V v n
+
+101.1 ||| She hesitated seeming to grope for words
+101.2 ||| 她 猶豫 了 一下 ， 似乎 在 尋找 合適 的 字眼 。
+101.3 ||| grope for words ||| grope:V for n
+101.4 ||| 尋找 字眼 ||| 尋找:V n
+
+104.1 ||| I've been out canvassing for the Labour Party every evening this week
+104.2 ||| 這 週 我 每天 晚上 都 出去 遊說 給 工黨 拉 選票 。
+104.3 ||| canvass for Labour_Party ||| canvass:V for n
+104.4 ||| 給 工黨 拉_選票 ||| 拉_選票:給 n V
+
+105.1 ||| Party supporters were called on to help canvass for their candidate
+105.2 ||| 該 黨派 的 支持者 被 動員 來 為 候選人 拉票 。
+105.3 ||| canvass for candidate ||| canvass:V for n
+105.4 ||| 為 候選人 拉票 ||| 拉票:為 n V
+
+106.1 ||| The senator argued for making cuts in military spending
+106.2 ||| 部長 提出 支持 削減 軍費 開支 的 理由 。
+106.3 ||| argue for making ||| argue:V for ving
+106.4 ||| 提出 支持 削減 ||| 提出:V v v
+
+106.1 ||| The senator argued against making cuts in military spending
+106.2 ||| 部長 提出 反對 削減 軍費 開支 的 理由 。
+106.3 ||| argue against making ||| argue:V against ving
+106.4 ||| 提出 反對 削減 ||| 提出:V v v
+
+107.1 ||| Woolf’s report argued for an improvement in prison conditions
+107.2 ||| 伍爾 夫 在 報導 中 主張 改善 監獄 的 環境 。
+107.3 ||| argue for improvement ||| argue:V for n
+107.4 ||| 主張 改善 ||| 主張:V v
+
+108.1 ||| Did you vote for or against the motion
+108.2 ||| 對 這 項 動議 你 投 了 贊成 票 還是 反對 票 ？
+108.3 ||| vote for motion ||| vote:V for n
+108.4 ||| 對 動議 投 贊成 票 ||| 投 票:對 n V N
+
+108.1 ||| Did you vote for or against the motion
+108.2 ||| 對 這 項 動議 你 投 了 贊成 票 還是 反對 票 ？
+108.3 ||| vote against motion ||| vote:V against n
+108.4 ||| 對 動議 投 反對 票 ||| 投 票:對 n V N
+
+110.1 ||| He's spending a lot of his time at the moment campaigning for the Conservative Party
+110.2 ||| 他 目前 將 大量 時間 用於 為 保守黨 奔走 遊說 。
+110.3 ||| campaign for Party ||| campaign:V for n
+110.4 ||| 為 黨 遊說 ||| 遊說:為 n V
+
+112.1 ||| The two athletes are competing for the gold medal
+112.2 ||| 這 兩 位 選手 在 爭奪 金牌 。
+112.3 ||| compete for medal ||| compete:V for n
+112.4 ||| 爭奪 金牌 ||| 爭奪:V n
+
+113.1 ||| I took her swimming to compensate for having missed out on the cinema
+113.2 ||| 為 彌補 她 錯過 了 電影 ， 我 帶 她 去 游泳 。
+113.3 ||| compensate for having ||| compensate:V for ving
+113.4 ||| 彌補 錯過 ||| 彌補:V v
+
+115.1 ||| She was still mourning for her brother
+115.2 ||| 她 還 在 悼念 她 的 哥哥 。
+115.3 ||| mourn for brother ||| mourn:V for n
+115.4 ||| 悼念 哥哥 ||| 悼念:V n
+
+116.1 ||| He still mourns for his brother
+116.2 ||| 他 仍然 為 他 兄弟 的 去世 感到 悲痛 。
+116.3 ||| mourn for brother ||| mourn:V for n
+116.4 ||| 為 兄弟 的 去世 感到 悲痛 ||| 感到 悲痛:為 n V ADJ
+
+117.1 ||| Five players are still vying for the last position on the team
+117.2 ||| 5 名 運動員 還 在 競爭 該 隊 的 最後 一 個 名額 。
+117.3 ||| vie for position ||| vie:V for n
+117.4 ||| 競爭 名額 ||| 競爭:V n
+
+118.1 ||| My umbrella will serve for a weapon
+118.2 ||| 我 的 傘 可以 當 武器 用 。
+118.3 ||| serve for weapon ||| serve:V for n
+118.4 ||| 當 武器 用 ||| 用:當 n V 
+
+120.1 ||| They are going to drill for oil nearby
+120.2 ||| 他們 準備 在 附近 鑽探 石油 。
+120.3 ||| drill for oil ||| drill:V for n
+120.4 ||| 鑽探 石油 ||| 鑽探:V n
+
+121.1 ||| They are drilling for oil in the area
+121.2 ||| 他們 在 這 個 地區 鑽井 勘探 石油 。
+121.3 ||| drill for oil ||| drill:V for n
+121.4 ||| 勘探 石油 ||| 勘探:V n
+
+124.1 ||| There were hundreds of taxis at the airport all touting for business/custom
+124.2 ||| 機場 有 數百 輛 出租車 ， 都 在 招徠 乘客 。
+124.3 ||| tout for custom ||| tout:V for n
+124.4 ||| 招徠 乘客 ||| 招徠:V n
+
+126.1 ||| The meeting has been arranged for Wednesday
+126.2 ||| 會議 已經 安排 在 週三 了 。
+126.3 ||| arrange for Wednesday ||| arrange:V for n
+126.4 ||| 安排 在 週三 ||| 安排:V 在 n
+
+128.1 ||| Beethoven's fifth symphony has been arranged for the piano
+128.2 ||| 貝多芬 的 第五 號 交響曲 被 改編成 了 鋼琴曲 。
+128.3 ||| arrange for piano ||| arrange:V for n
+128.4 ||| 改編 成 鋼琴曲 ||| 改編:V 成 n
+
+130.1 ||| We need to plan for the future now that we’re getting married
+130.2 ||| 既然 我們 即將 結婚 ， 就 得 為 未來 計畫 。
+130.3 ||| plan for future ||| plan:V for n
+130.4 ||| 為 未來 計畫 ||| 計畫:為 n V
+
+131.1 ||| She had to beg for money and food for her children
+131.2 ||| 她 不得不 為 孩子 們 乞討 金錢 和 食物 。
+131.3 ||| beg for money ||| beg:V for n
+131.4 ||| 乞討 金錢 ||| 乞討:V n
+
+132.1 ||| After recent setbacks in the market most people are now opting for low-risk investments
+132.2 ||| 大部分 人 最近 股市 失利 後 現在 都 轉而 選擇 低 風險 的 投資 。
+132.3 ||| opt for investment ||| opt:V for n
+132.4 ||| 選擇 投資 ||| 選擇:V n
+
+133.1 ||| Traders began to prepare for the annual surge of Christmas shoppers
+133.2 ||| 商人 開始 為 每年 聖誕節 的 購物 高峰 進行 籌備 。
+133.3 ||| prepare for surge ||| prepare:V for n
+133.4 ||| 為 高峰 籌備 ||| 籌備:為 n V
+
+134.1 ||| We were all working hard to prepare for the wedding
+134.2 ||| 我們 都 在 賣力 地 為 婚禮 做 準備 。
+134.3 ||| prepare for wedding ||| prepare:V for n
+134.4 ||| 為 婚禮 做 準備 ||| 做 準備:為 n V N
+
+135.1 ||| It is a brave person who will die for their beliefs
+135.2 ||| 願 為 信念 而 死 的 人 稱得上 是 勇敢者 。
+135.3 ||| die for beliefs ||| die:V for n
+135.4 ||| 為 信念 死 ||| 死:為 n V
+
+136.1 ||| They were ready to die for their country
+136.2 ||| 他們 準備 為 國 捐軀 。
+136.3 ||| die for country ||| die:V for n
+136.4 ||| 為 國 捐軀 ||| 捐軀:為 n V
+
+139.1 ||| The bus for Dallas departs from the Greyhound-Trailways Terminal
+139.2 ||| 開往 達拉斯 的 公共汽車 從 灰狗 公共 交通 終點站 開出 。
+139.3 ||| depart from Terminal ||| depart:V from n
+139.4 ||| 從 終點站 開出 ||| 開出:從 n V
+
+140.1 ||| Our flight departs from Shannon Airport at 2 o’clock
+140.2 ||| 我們 的 航班 2點鐘 從 善農 機場 起飛 。
+140.3 ||| depart from Airport ||| depart:V from n
+140.4 ||| 從 機場 起飛 ||| 起飛:從 n V
+
+141.1 ||| The company's profits have shrunk from $55 million to $125 million
+141.2 ||| 公司 利潤 從 550萬 美元 減少到 了 125萬 美元 。
+141.3 ||| shrink from $55_million to $125_million ||| shrink:V from n to n
+141.4 ||| 從 550萬 美元 減少 到 125萬 美元 ||| 減少:從 n V 到 n
+
+144.1 ||| He never really recovered from the shock of his wife dying
+144.2 ||| 他 再 也 沒有 從 喪妻 之 痛 中 真正 恢復過來 。
+144.3 ||| recover from shock ||| recover:V from n
+144.4 ||| 從^中 痛 恢復 ||| 恢復:從^中 n V
+
+145.1 ||| A single beam of light radiated from the lighthouse
+145.2 ||| 一 束 光 從 燈塔 射出 。
+145.3 ||| radiate from lighthouse ||| radiate:V from n
+145.4 ||| 從 燈塔 射出 ||| 射出:從 n V
+
+146.1 ||| Lorna graduated from Freiburg University
+146.2 ||| 洛娜 畢業 於 弗萊堡 大學 。
+146.3 ||| graduate from University ||| graduate:V from n
+146.4 ||| 從 大學 畢業 ||| 畢業:從 n V
+
+149.1 ||| He graduated from Yale University in 1936
+149.2 ||| 他 1936年 畢業 於 耶魯 大學 。
+149.3 ||| graduate from University ||| graduate:V from n
+149.4 ||| 畢業 於 大學 ||| 畢業:V 於 n
+
+150.1 ||| Did humans evolve from apes
+150.2 ||| 人類 是 由 猿 進化 而 來 的 吗 ？
+150.3 ||| evolve from apes ||| evolve:V from n
+150.4 ||| 由 猿 進化 ||| 進化:由 n V
+
+151.1 ||| a debate as to whether birds evolved from dinosaurs
+151.2 ||| 關於 鳥 是否 由 恐龍 演變 而 來 的 爭論
+151.3 ||| evolve from dinosaurs ||| evolve:V from n
+151.4 ||| 由 恐龍 演變 ||| 演變:由 n V
+
+152.1 ||| The research project evolved from a concept first proposed in 1995
+152.2 ||| 該 研究 計畫 是 從 1995年 首 次 提出 的 一 個 概念 發展 起來 的 。
+152.3 ||| evolve from concept ||| evolve:V from n
+152.4 ||| 從 概念 發展 ||| 發展:從 n V
+
+153.1 ||| Jazz is an American modification of musical conventions imported from Europe
+153.2 ||| 爵士樂 是 一 種 從 歐洲 引進 在 美國 進行 了 改造 的 音樂 形式 。
+153.3 ||| import from Europe ||| import:V from n
+153.4 ||| 從 歐洲 引進 ||| 引進:從 n V
+
+154.1 ||| She refused to backtrack from her criticisms of the proposal
+154.2 ||| 她 拒絕 收回 對 該 建議 所 做 的 批評 。
+154.3 ||| backtrack from criticisms ||| backtrack:V from n
+154.4 ||| 收回 批評 ||| 收回:V n
+
+156.1 ||| He's always quoting from the Bible
+156.2 ||| 他 總是 引用 《 聖經 》 上 的 話 。
+156.3 ||| quote from Bible ||| quote:V from n
+156.4 ||| 引用 《 聖經 》||| 引用:V n
+
+157.1 ||| She claimed to be quoting from an official report
+157.2 ||| 她 聲稱 是 援引 自 一 份 官方 報告 。
+157.3 ||| quote from report ||| quote:V from n
+157.4 ||| 援引 自 報告 ||| 援引:V 自 n
+
+158.1 ||| He's not afraid to learn from his mistakes
+158.2 ||| 他 勇於 從 錯誤 中 汲取 教訓 。
+158.3 ||| learn from mistakes ||| learn:V from n
+158.4 ||| 從 錯誤 汲取 教訓 ||| 汲取 教訓:從 n V N
+
+159.1 ||| A high percentage of women said they had abstained from alcohol during pregnancy
+159.2 ||| 佔 很 高 比例 的 婦女 說 她們 在 懷孕 期間 戒酒 。
+159.3 ||| abstain from alcohol ||| abstain:V from n
+159.4 ||| 戒 酒 ||| 戒:V n
+
+160.1 ||| She had to withdraw from the competition because of a leg injury
+160.2 ||| 她 因 傷 只好 退出 了 比賽 。
+160.3 ||| withdraw from competition ||| withdraw:V from n
+160.4 ||| 退出 比賽 ||| 退出:V n
+
+161.1 ||| Following his nervous breakdown he withdrew from public life and refused to give any interviews
+161.2 ||| 神經 崩潰 後 ， 他 退出 公眾 生活 並 拒絕 接受 任何 採訪 。
+161.3 ||| withdraw from life ||| withdraw:V from n
+161.4 ||| 退出 生活 ||| 退出:V n
+
+162.1 ||| Eleven million bottles of water had to be withdrawn from sale due to a health scare
+162.2 ||| 因為 擔心 危害 健康 ， 有 1100萬 瓶 水 不得不 停止 銷售 。
+162.3 ||| withdraw from sale ||| withdraw:V from n
+162.4 ||| 停止 銷售 ||| 停止:V n
+
+167.1 ||| Wax passes from solid to liquid when you heat it
+167.2 ||| 蠟 受熱 後 會 從 固體 變成 液體 。
+167.3 ||| pass from solid to liquid ||| pass:V from n to n
+167.4 ||| 從 固體 變成 液體 ||| 變成:從 n V n
+
+169.1 ||| At this temperature the mixture passes from a solid to a liquid state
+169.2 ||| 達到 這 個 溫度 時 ， 該 混合物 從 固體 變成 液體 。
+169.3 ||| pass from solid to liquid ||| pass:V from n to n
+169.4 ||| 從 固體 變成 液體 ||| 變成:從 n V n
+
+171.1 ||| Since retiring from the company she has done voluntary work for a charity
+171.2 ||| 從 公司 退休 後 ， 她 就 一直 在 為 一 間 慈善 機構 做 志願 工作 。
+171.3 ||| retire from company ||| retire:V from n
+171.4 ||| 從 公司 退休 ||| 退休:從 n V
+
+172.1 ||| She retired from the competition after pulling a leg muscle
+172.2 ||| 她 因 腿部 肌肉 拉傷 退出 了 比賽 。
+172.3 ||| retire from competition ||| retire:V from n
+172.4 ||| 退出 比賽 ||| 退出:V n
+
+173.1 ||| He retired from the army last month
+173.2 ||| 他 上 個 月 才 從 部隊 退役 。
+173.3 ||| retire from army ||| retire:V from n
+173.4 ||| 從 部隊 退役 ||| 退役:從 n V
+
+174.1 ||| At the age of 83 she finally retired from public life
+174.2 ||| 她 83 歲 時 才 從 公共 事務 中 退下來 。
+174.3 ||| retire from public_life ||| retire:V from n
+174.4 ||| 從^中 公共_事務 退下來 ||| 退下來:從^中 n V
+
+175.1 ||| The British spy Kim Philby defected to the Soviet Union/defected from Britain in 1963
+175.2 ||| 英國 間諜金 ‧ 菲爾 比 於 1963年 叛 逃到 了 蘇聯 。
+175.3 ||| defect to Soviet_Union ||| defect:V to n
+175.4 ||| 叛逃 到 蘇聯 ||| 叛逃:V 到 n
+
+176.1 ||| To be parted from him even for two days made her sad
+176.2 ||| 就 連 跟 他 分開 兩 天 都 會 讓 她 難過 。
+176.3 ||| part from him ||| part:V from n
+176.4 ||| 跟 他 分開 ||| 分開:跟 n V
+
+182.1 ||| She rose from her chair to welcome us
+182.2 ||| 她 從 椅子 上 站起來 迎接 我們 。
+182.3 ||| rise from chair ||| rise:V from n
+182.4 ||| 從^上 椅子 站起來 ||| 站起來:從^上 n V
+
+184.1 ||| A column of thick black smoke could be seen rising from the town
+184.2 ||| 人 們 可以 看到 一 股 濃濃 的 黑煙 從 城 中 升起 。
+184.3 ||| rise from town ||| rise:V from n
+184.4 ||| 從^中 城 升起 ||| 升起:從^中 n V
+
+185.1 ||| Edward finished his meal quickly and rose from the table
+185.2 ||| 愛德華 匆匆 吃完 飯 後 就 起身 離開 飯桌 。
+185.3 ||| rise from table ||| rise:V from n
+185.4 ||| 起身 離開 飯桌 ||| 起身:V v n
+
+187.1 ||| Do you suffer from (= do you have) any allergies
+187.2 ||| 你 對 任何 物質 過敏 嗎 ？
+187.3 ||| suffer from allergies ||| suffer:V from n
+187.4 ||| 對 物質 過敏 ||| 過敏:對 n V
+
+189.1 ||| English is full of words that have been borrowed from other languages
+189.2 ||| 英語 中 充滿 了 從 其他 語言 借來 的 詞彙 。
+189.3 ||| borrow from languages ||| borrow:V from n
+189.4 ||| 從 語言 借來 ||| 借來:從 n V
+
+190.1 ||| The town has changed from a small fishing port to a bustling tourist centre
+190.2 ||| 該 城 從 一 個 小 漁港 變成 了 熱鬧 的 旅遊 聖地 。
+190.3 ||| change from port to tourist_centre ||| change:V from n to n
+190.4 ||| 從 漁港 變成 聖地 ||| 變成:從 n V n
+
+192.1 ||| They announced that the tournament would be switched from March to December
+192.2 ||| 他們 宣佈 比賽 的 時間 由 3月 改成 12月 。
+192.3 ||| switch from March to December ||| switch:V from n to n
+192.4 ||| 由 3月 改成 12月 ||| 改成:由 n V n
+
+195.1 ||| The long-sleeved dress comes in yellow and blue
+195.2 ||| 這 種 長袖 洋裝 有 黃色 和 藍色 兩 種 。
+195.3 ||| come in yellow ||| come:V in n
+195.4 ||| 有 黃色 ||| 有:V n
+
+196.1 ||| I hope you know that you can always confide in me
+196.2 ||| 我 希望 你 知道 你 可以 對 我 吐露 秘密 。
+196.3 ||| confide in me ||| confide:V in n
+196.4 ||| 對 我 吐露 秘密 ||| 吐露 秘密:對 n V N
+
+199.1 ||| I just stood in something disgusting
+199.2 ||| 我剛 踩 到 什 麽 噁 心 的 東西 。
+199.3 ||| stand in something ||| stand:V in n
+199.4 ||| 踩 到 東西 ||| 踩:V 到 n
+
+200.1 ||| His statue stands in the city square
+200.2 ||| 他 的 雕像 矗立 在 城市 廣場 上 。
+200.3 ||| stand in city ||| stand:V in n
+200.4 ||| 矗立 在^上 廣場 ||| 矗立:V 在^上 n
+
+202.1 ||| Their many years of research have finally culminated in a cure for the disease
+202.2 ||| 經過 多 年 研究 ， 他們 終於 開發出 一 種 能 治癒 該 病 的 藥物 。
+202.3 ||| culminate in cure ||| culminate:V in n
+202.4 ||| 開發 治癒 的 藥物 ||| 開發:V n
+
+203.1 ||| to sit in an armchair
+203.2 ||| 坐 在 扶手椅 上 。
+203.3 ||| sit in armchair ||| sit:V in n
+203.4 ||| 坐 在^上 扶手椅 ||| 坐:V 在^上 n
+
+204.1 ||| They were sitting in a café drinking coffee
+204.2 ||| 他們 正 坐 在 咖啡館 裏 喝 咖啡 。
+204.3 ||| sit in café ||| sit:V in n
+204.4 ||| 坐 在^裡 咖啡館 ||| 坐:V 在^裡 n
+
+206.1 ||| Sarah has missed her chance of starring in the school play
+206.2 ||| 莎拉 錯過 了 在 學校 戲劇 中 扮演 主  的 機會 。
+206.3 ||| star in play ||| star:V in n
+206.4 ||| 在^中 戲劇 扮演 主角 ||| 扮演 主角:在^中 n V N
+
+211.1 ||| The family now resides in southern France
+211.2 ||| 這 家人 現 居住 在 法國 南部 。
+211.3 ||| reside in France ||| reside:V in n
+211.4 ||| 居住 在 法國 ||| 居住:V 在 n
+
+212.1 ||| He drowned in a boating accident
+212.2 ||| 他 在 一 次 划船 事故 中 溺水 身亡 。
+212.3 ||| drown in accident ||| drown:V in n
+212.4 ||| 在^中 事故 溺水 身亡 ||| 溺水 身亡: 在^中 n V V
+
+214.1 ||| They lived in a basement flat in South London
+214.2 ||| 他們 住 在 倫敦 南部 的 一 個 公寓 地下樓 裏 。
+214.3 ||| live in flat ||| live:V in n
+214.4 ||| 住 在^裡 公寓 ||| 住:V 在^裡 n
+
+215.1 ||| people living in poverty
+215.2 ||| 生活 在 貧困 中 的 人 們 。
+215.3 ||| live in poverty ||| live:V in n
+215.4 ||| 生活 在^中 貧困 ||| 生活:V 在^中 n
+
+216.1 ||| to lie in bed
+216.2 ||| 躺 在 床 上 。
+216.3 ||| lie in bed ||| lie:V in n
+216.4 ||| 躺 在^上 床 ||| 躺:V 在^上 n
+
+217.1 ||| O’Connell is currently lying in second position in the world championship
+217.2 ||| 奧康納爾 目前 在 世界 錦標賽 中 名列 第二 。
+217.3 ||| lie in second_position ||| lie:V in n
+217.4 ||| 名列 第二 ||| 名列:V n
+
+220.1 ||| I passed in history but failed in chemistry
+220.2 ||| 我 通過 了 歷史 考試 ， 但 化學 考試 不 及格 。
+220.3 ||| fail in chemistry ||| fail:V in n
+220.4 ||| 化學 考試 不 及格 ||| 不 及格:n ADV V
+
+227.1 ||| You need to be pretty tough to succeed in the property world
+227.2 ||| 要 想 在 地 產界 出人頭地 ， 你 必須 要 堅忍不拔 。
+227.3 ||| succeed in property_world ||| succeed:V in n
+227.4 ||| 在 地 產界 出人頭地 ||| 出人頭地:在 n V
+
+228.1 ||| The campaign has certainly succeeded in raising public awareness of the issue
+228.2 ||| 毫無 疑問 ， 這 項 活動 成功 喚起 大眾 對 這 個 問題 的 關注 。
+228.3 ||| succeed in raising ||| succeed:V in ving
+228.4 ||| 成功 喚起 ||| 成功:V v
+
+232.1 ||| Several top landscape designers assisted in the creation of the garden
+232.2 ||| 有 幾 位 頂尖 的 景觀 設計師 幫助 設計 建造 了 這 個 花園 。
+232.3 ||| assist in creation ||| assist:V in n
+232.4 ||| 幫助 建造 ||| 幫助:V v
+
+233.1 ||| Patricia always dresses in black (= wears black clothes)
+233.2 ||| 派特 裡 夏 總 穿 黑色 衣服 。
+233.3 ||| dress in black ||| dress:V in n
+233.4 ||| 穿 黑色 衣服 ||| 穿:V n
+
+235.1 ||| He confessed that he had indulged in affairs with several women
+235.2 ||| 他 坦言 曾經 沉迷 於 與 幾 位 女子 的 風流 韻事 中 。
+235.3 ||| indulge in affairs ||| indulge:V in n
+235.4 ||| 沉迷 於^中 韻事 ||| 沉迷:V 於^中 n
+
+239.1 ||| At the end of a hot summer violence erupted in the inner cities
+239.2 ||| 一 個 炎熱 的 夏 末 ， 在 市中心 貧民區 突然 爆發 了 暴力 事件 。
+239.3 ||| erupt in inner_cities ||| erupt:V in n
+239.4 ||| 在 市中心 爆發 ||| 爆發:在 n V
+
+245.1 ||| She forgot her keys and got into the house through the window
+245.2 ||| 她 忘 了 帶 鑰匙 ， 只好 爬 窗 進 屋子 。
+245.3 ||| get into house ||| get:V into n
+245.4 ||| 進 屋子 ||| 進:V n
+
+248.1 ||| She delved into her pocket to find some change
+248.2 ||| 她 伸手 到 口袋 裡 找 零錢 。
+248.3 ||| delve into pocket ||| delve:V into n
+248.4 ||| 伸手 到^裡 口袋 ||| 伸手:V 到^裡 n
+
+251.1 ||| We crowded into the kitchen with the others
+251.2 ||| 我們 和 其他 人 一起 擠到 廚房 裏 。
+251.3 ||| crowd into kitchen ||| crowd:V into n
+251.4 ||| 擠 到^裡 廚房 ||| 擠:V 到^裡 n
+
+252.1 ||| We ran down to the beach and plunged into the sea
+252.2 ||| 我們 跑 向 海灘 ， 縱身 跳入 海 中 。
+252.3 ||| plunge into sea ||| plunge:V into n
+252.4 ||| 跳 入^中 海 ||| 跳:V 入^中 n
+
+254.1 ||| The legs of the chair are meant to slot into the holes at the back
+254.2 ||| 椅子 腳 應該 要 插 到 後面 的 洞 裡 。
+254.3 ||| slot into holes ||| slot:V into n
+254.4 ||| 插 到^裡 洞 ||| 插:V 到^裡 n
+
+255.1 ||| The plane crashed into a mountainside
+255.2 ||| 飛機 撞到 了 山坡 上 。
+255.3 ||| crash into mountainside ||| crash:V into n
+255.4 ||| 撞 到^上 山坡 ||| 撞到:V 到^上 n
+
+262.1 ||| Old grey houses stretched into the distance
+262.2 ||| 灰色 的 老 房子 朝 遠處 延伸過去 。
+262.3 ||| stretch into distance ||| stretch:V into n
+262.4 ||| 朝 遠處 延伸 ||| 延伸: 朝 n V
+
+266.1 ||| That sounds like a good idea
+266.2 ||| 那 聽起來 像 是 個 不錯 的 主意 。
+266.3 ||| sound like idea ||| sound:V like n
+266.4 ||| 聽起來 像 主意 ||| 聽起來:V 像 n
+
+269.1 ||| It sounds like a bird
+269.2 ||| 聽起來 像 一 隻 鳥 。
+269.3 ||| sound like bird ||| sound:V like n
+269.4 ||| 聽起來 像 鳥 ||| 聽起來:V 像 n
+
+270.1 ||| Malta sounds like a great place for a relaxing holiday
+270.2 ||| 馬爾他 聽起來 像 是 一 個 可以 放鬆 度假 的 好 地方 。
+270.3 ||| sound like place ||| sound:V like n
+270.4 ||| 聽起來 像 地方 ||| 聽起來:V 像 n
+
+276.1 ||| The boat reeked of fish
+276.2 ||| 船 上 散發出 魚 的 腥臭味 。
+276.3 ||| reek of fish ||| reek:V of n
+276.4 ||| 散發出 魚 的 腥臭味 ||| 散發出:V n
+
+279.1 ||| She's always thinking of others
+279.2 ||| 她 總是 替 他人 著想 。
+279.3 ||| think of others ||| think:V of n
+279.4 ||| 替 他人 著想 ||| 著想:替 n V
+
+280.1 ||| I'm thinking of taking up running
+280.2 ||| 我 在 考慮 開始 跑步 。
+280.3 ||| think of taking ||| think:V of ving
+280.4 ||| 考慮 開始 ||| 考慮:V v
+
+281.1 ||| Salmon used to be thought of as expensive/a luxury
+281.2 ||| 鮭魚 一 度 被 認為 是 奢侈品 。
+281.3 ||| think of as luxury ||| think:V of as n
+281.4 ||| 認為 是 奢侈品 ||| 認為:V [是] n
+
+283.1 ||| I went with Ava - speaking of (= on the subject of) Ava have you seen her new haircut
+283.2 ||| 我 和 艾娃 一起 去 的 —— 說起 艾娃 ， 你 見 過 她 的 新 髮型 了 嗎 ？
+283.3 ||| speak of Ava ||| speak:V of n
+283.4 ||| 說起 艾娃 ||| 說起:V n
+
+284.1 ||| We've been invited to Rachel and Jamie's wedding - speaking of which did you know that they're moving to New York
+284.2 ||| 我們 應邀 參加 了 瑞秋 和 傑米 的 婚禮 —— 說到 這 個 ， 你 知道 他們 要 搬到 紐約 去 嗎 ？
+284.3 ||| speak of which ||| speak:V of n
+284.4 ||| 說到 這 個 ||| 說到:V n
+
+289.1 ||| You should beware of undercooked food when staying in hot countries
+289.2 ||| 留在 氣候 炎熱 的 國家 裡 ， 小心 別 吃 未 煮熟 的 食物 。
+289.3 ||| beware of food ||| beware:V of n
+289.4 ||| 小心 吃 食物||| 小心:V v n
+
+290.1 ||| The bread tastes of onions
+290.2 ||| 這 麵包 有 股 洋蔥味 。
+290.3 ||| taste of onions ||| taste:V of n
+290.4 ||| 有 洋蔥 味 ||| 有:V n
+
+291.1 ||| I strongly disapprove of underage drinking
+291.2 ||| 我 強烈 反對 未 達 法定 年齡者 飲酒 。
+291.3 ||| disapprove of drinking ||| disapprove:V of ving
+291.4 ||| 反對 飲酒 ||| 反對:V v
+
+292.1 ||| Why do you always have to disapprove of everything I do
+292.2 ||| 為什麼 我 做 的 每 件 事 你 都 要 反對 ？
+292.3 ||| disapprove of everything ||| disapprove:V of n
+292.4 ||| 反對 每 件 事 ||| 反對:V n
+
+294.1 ||| Mike despaired of ever seeing her again
+294.2 ||| 麥克 對 再次 見到 她 已 不 抱 任何 希望 。
+294.3 ||| despair of seeing ||| despair:V of ving
+294.4 ||| 對 見到 不 抱 希望 ||| 不 抱 希望:對 v ADV V N
+
+295.1 ||| She died of hunger.
+295.2 ||| 她 死 於 饑餓 。
+295.3 ||| die of hunger ||| die:V of n
+295.4 ||| 死 於 饑餓 ||| 死:V 於 n
+
+296.1 ||| He’s always boasting of his great sporting achievements
+296.2 ||| 他 老是 在 誇耀 自己 體育 上 的 偉大 成就 。
+296.3 ||| boast of achievements ||| boast:V of n
+296.4 ||| 誇耀 成就 ||| 誇耀:V n
+
+297.1 ||| My laptop can run off the mains or a battery
+297.2 ||| 我 的 手提 電腦 可以 用 電源 ， 也 可以 用 電池 。
+297.3 ||| run off mains ||| run:V off n
+297.4 ||| 用 電池 ||| 用:V n
+
+298.1 ||| sponging off the state
+298.2 ||| 靠 國家 來 養活 。
+298.3 ||| sponge off state ||| sponge:V off n
+298.4 ||| 靠 國家 養活 ||| 養活:靠 n V
+
+299.1 ||| To fasten the envelope first peel off the strip of paper along the edge
+299.2 ||| 要 把 信封 封 好 ， 首先 要 把 邊沿 上 的 紙條 撕掉 。
+299.3 ||| peel off strip ||| peel:V off n
+299.4 ||| 把 紙條 撕掉 ||| 撕掉:把 n V
+
+301.1 ||| Trains run on rails
+301.2 ||| 火車 在 鐵軌 上 行駛 。
+301.3 ||| run on rails ||| run:V on n
+301.4 ||| 在^上 鐵軌 行駛 ||| 行駛:在^上 n V
+
+302.1 ||| Does your car run on petrol or diesel
+302.2 ||| 你 的 汽車 用 汽油 還是 柴油 ？
+302.3 ||| run on petrol ||| run:V on n
+302.4 ||| 用 汽車 ||| 用:V n
+
+303.1 ||| The curtains run on these tracks
+303.2 ||| 窗簾 在 這些 軌道 上 滑動 。
+303.3 ||| run on tracks ||| run:V on n
+303.4 ||| 在^上 軌道 滑動 ||| 滑動:在^上 n V
+
+304.1 ||| Whether or not we go to Mexico for our holiday depends on the cost
+304.2 ||| 我們 去 不 去 墨西哥 度假 取決 於 需要 花費 多少 錢 。
+304.3 ||| depend on cost ||| depend:V on n
+304.4 ||| 取決 於 花費 ||| 取決:V 於 n
+
+305.1 ||| I’m acting on the advice of my lawyers
+305.2 ||| 我 正在 按 律師 的 意見 行事 。
+305.3 ||| act on advice ||| act:V on n
+305.4 ||| 按 意見 行事 ||| 行事:按 n V
+
+306.1 ||| Our thanks go to everybody who has worked on this project
+306.2 ||| 我們 感謝 所有 參與 過 這 個 計畫 的 人 。
+306.3 ||| work on project ||| work:V on n
+306.4 ||| 參與 計畫 ||| 參與:V n
+
+307.1 ||| Some students live on the University campus
+307.2 ||| 有 些 學生 住 在 大學 校園 裡 。
+307.3 ||| live on campus ||| live:V on n
+307.4 ||| 住 在^裡 校園 ||| 住:V 在^裡 n
+
+308.1 ||| She lived on well into her 90s
+308.2 ||| 她 一直 活 到 了 90多 歲 。
+308.3 ||| live on 90s ||| live:V on n
+308.4 ||| 活 到 90多 歲 ||| 活:V 到 n
+
+309.1 ||| Millions of families are living on benefits
+309.2 ||| 數百萬 家庭 靠 救濟金 過活 。
+309.3 ||| live on benefits ||| live:V on n
+309.4 ||| 靠 救濟金 過活 ||| 過活:靠 n V
+
+310.1 ||| The box lives on the top shelf there
+310.2 ||| 盒子 放 在 那邊 架子 的 頂層 上 。
+310.3 ||| live on shelf ||| live:V on n
+310.4 ||| 放 在^上 架子 ||| 放:V 在^上 n
+
+311.1 ||| A new series about wildlife has started on Monday nights
+311.2 ||| 一 檔 新 的 野生 動物 節目 已 開始 在 每 週一 晚上 播出 。
+311.3 ||| start on nights ||| start:V on n
+311.4 ||| 開始 在 晚上 播出 ||| 開始:V 在 n v
+
+313.1 ||| We will focus upon three main topics
+313.2 ||| 我們 將 集中 討論 3 個 主題 。
+313.3 ||| focus upon topics ||| focus:V upon n
+313.4 ||| 集中 討論 主題 ||| 集中 討論:V V n
+
+314.1 ||| The doctor will call next week to check on your progress
+314.2 ||| 下 星期 醫生 會 來 檢查 你 恢復 得 怎麼樣 。
+314.3 ||| check on progress ||| check:V on n
+314.4 ||| 檢查 恢復 ||| 檢查:V v
+
+315.1 ||| I check on our elderly neighbour every few days to make sure that he's alright
+315.2 ||| 我 每 過 幾 天 就 去 探望 我們 年邁 的 鄰居 ， 看 他 是否 一切 安好 。
+315.3 ||| check on neighbour ||| check:V on n
+315.4 ||| 探望 鄰居 ||| 探望:V n
+
+316.1 ||| My birthday will fall on a Friday this year
+316.2 ||| 今年 我 的 生日 在 星期五 。
+316.3 ||| fall on Friday ||| fall:V on n
+316.4 ||| 在 星期五 ||| 在:V n
+
+317.1 ||| In the word "table" the accent falls on the first syllable
+317.2 ||| table 這 個 詞 的 重音 落在 第一 個 音節 上 。
+317.3 ||| fall on syllable ||| fall:V on n
+317.4 ||| 落 在^上 音節 ||| 落在:V 在^上 n
+
+318.1 ||| She slipped and fell on the ice
+318.2 ||| 她 滑 了 一下 ， 摔倒 在 冰 上 。
+318.3 ||| fall on ice ||| fall:V on n
+318.4 ||| 摔倒 在^上 冰 ||| 摔倒:V 在^上 n
+
+319.1 ||| A bomb fell on the church and destroyed it
+319.2 ||| 一 枚 炸彈 落在 教堂 上 ， 把 教堂 炸毀 了 。
+319.3 ||| fall on church ||| fall:V on n
+319.4 ||| 落 在^上 教堂 ||| 落:V 在^上 n
+
+320.1 ||| He begged for mercy as the blows fell on him
+320.2 ||| 他 挨打 時 求饒 了 。
+320.3 ||| fall on him ||| fall:V on n
+320.4 ||| 挨打 ||| 挨打:V
+
+321.1 ||| In English the stress in ‘Paris’ falls on the first syllable
+321.2 ||| 在 英語 中 ， Paris 的 重音 落在 第一 個 音節 。
+321.3 ||| fall on syllable ||| fall:V on n
+321.4 ||| 落 在 音節 ||| 落:V 在 n
+
+322.1 ||| There's someone knocking on/at the door
+322.2 ||| 有 人 在 敲門 。
+322.3 ||| knock on door ||| knock:V on n
+322.4 ||| 敲門 ||| 敲門:V
+
+324.1 ||| Contractors have started building on waste land near the town
+324.2 ||| 承包商 開始 在 離 城鎮 不遠 的 廢棄 土地 上 建房 。
+324.3 ||| build on land ||| build:V on n
+324.4 ||| 在^上 土地 建房 ||| 建房:在^上 n V
+
+325.1 ||| You need planning permission to build on this land
+325.2 ||| 你 必須 有 建築 許可 才 能 在 這 塊 地上 蓋 房子 。
+325.3 ||| build on land ||| build:V on n
+325.4 ||| 在^上 地 蓋 房子 ||| 蓋 房子:在^上 n V N
+
+326.1 ||| Some companies insist on staff undergoing regular medical checks
+326.2 ||| 有 些 公司 堅決 要求 員工 進行 定期 體檢 。
+326.3 ||| insist on staff ||| insist:V on n
+326.4 ||| 要求 員工 ||| 要求:V n
+
+327.1 ||| He has insisted on his innocence from the beginning
+327.2 ||| 他 從 一 開始 就 堅稱 自己 無罪 。
+327.3 ||| insist on innocence ||| insist:V on n
+327.4 ||| 堅稱 無罪 ||| 堅稱:V n
+
+328.1 ||| She let her gaze rest on his face for a moment
+328.2 ||| 她 注視 的 目光 在 他 臉 上 停留 了 一會兒 。
+328.3 ||| rest on face ||| rest:V on n
+328.4 ||| 在^上 臉 停留 ||| 停留:在^上 n V
+
+329.1 ||| to sit on a chair
+329.2 ||| 坐 在 椅子 上 。
+329.3 ||| sit on chair ||| sit:V on n
+329.4 ||| 坐 在^上 椅子 ||| 坐:V 在^上 n
+
+330.1 ||| The encyclopedia sits on my shelf at home gathering dust
+330.2 ||| 那 本 百科全書 擺 在 我 家 的 書架 上 ， 積滿 了 灰塵 。
+330.3 ||| sit on shelf ||| sit:V on n
+330.4 ||| 擺 在^上 書架 ||| 擺:V 在^上 n
+
+331.1 ||| I'm going to be sitting on the committee for one more year
+331.2 ||| 我 將 再 任一 年 的 委員會 委員 。
+331.3 ||| sit on committee ||| sit:V on n
+331.4 ||| 任 委員 ||| 任:V n
+
+332.1 ||| Matt sat on a park bench eating his lunch
+332.2 ||| 麥特 坐 在 公園 的 長椅 上 吃 午餐 。
+332.3 ||| sit on bench ||| sit:V on n
+332.4 ||| 坐 在^上 長椅 ||| 坐:V 在^上 n
+
+333.1 ||| The house sits on top of a hill overlooking the countryside
+333.2 ||| 房子 坐落 在 山頂 ， 俯瞰 著 下面 的 鄉野 。
+333.3 ||| sit on top ||| sit:V on n
+333.4 ||| 坐落 在 山頂 ||| 坐落:V 在 n
+
+334.1 ||| The cat sat in the tree ready to pounce on the ducks below
+334.2 ||| 樹 上 的 貓 準備 撲 向 下面 的 鴨子 。
+334.3 ||| pounce on ducks ||| pounce:V on n
+334.4 ||| 撲 向 鴨子 ||| 撲:V 向 n
+
+335.1 ||| They pounced on their suspect
+335.2 ||| 他們 迅速 撲 向 嫌疑犯 。
+335.3 ||| pounce on suspect ||| pounce:V on n
+335.4 ||| 撲 向 嫌疑犯 ||| 撲:V 向 n
+
+336.1 ||| White House aides pounced on the remark
+336.2 ||| 白宮 助理 突然 對 此 言論 做出 反應 。
+336.3 ||| pounce on remark ||| pounce:V on n
+336.4 ||| 對 言論 做出 反應 ||| 做出 反應:對 n V N
+
+337.1 ||| Ruth almost choked on a mouthful of cake
+337.2 ||| 露絲 差點 被 一口 蛋糕 噎住 。
+337.3 ||| choke on cake ||| choke:V on n
+337.4 ||| 被 蛋糕 噎住 ||| 噎住:被 n V
+
+338.1 ||| I kept treading on his toes when we were dancing
+338.2 ||| 我們倆 跳舞 時 ， 我 老是 踩到 他 的 腳趾 。
+338.3 ||| tread on toes ||| tread:V on n
+338.4 ||| 踩 到 腳趾 ||| 踩:V 到 n
+
+339.1 ||| The negotiations have snagged on a dispute about who should chair them
+339.2 ||| 關於 由 誰 來 主持 而 引起 的 爭議 妨礙 了 談判 的 進行 。
+339.3 ||| snag on dispute ||| snag:V on n
+339.4 ||| 妨礙 談判 ||| 妨礙:V n
+
+340.1 ||| Those duties will necessarily devolve on me
+340.2 ||| 那些 任務 必然 會 落 到 我 的 頭 上 。
+340.3 ||| devolve on me ||| devolve:V on n
+340.4 ||| 落 到^上 我_的_頭 ||| 落:V 到^上 n
+
+342.1 ||| The committee voted on the proposal and accepted it unanimously
+342.2 ||| 委員會 就 這 一 提議 進行 投票 表決 ， 結果 一致 通過 。
+342.3 ||| vote on proposal ||| vote:V on n
+342.4 ||| 就 提議 進行 投票 ||| 進行 投票:就 n V N
+
+343.1 ||| The Council will vote on the proposal next Friday
+343.2 ||| 市議會 下 周 五 將 對 此 提議 投票 表決 。
+343.3 ||| vote on proposal ||| vote:V on n
+343.4 ||| 對 提議 投票 ||| 投票:對 n V
+
+344.1 ||| We'd been in the house a month when dark stains started appearing on the wall
+344.2 ||| 牆 上 開始 出現 一些 深色 的 斑跡 時 ， 我們 在 這 幢 房子 裡 已經 住 了 一 個 月 。
+344.3 ||| appear on wall ||| appear:V on n
+344.4 ||| 牆 上 出現 ||| 出現:n 上 V
+
+345.1 ||| The film currently showing in the States will be appearing on our screens later this year
+345.2 ||| 這 部 正在 美國 上映 的 電影 今年 稍後 將 在 我國 播映 。
+345.3 ||| appear on screens ||| appear:V on n
+345.4 ||| 播映 ||| 播映:V
+
+346.1 ||| One day a stranger appeared on my doorstep
+346.2 ||| 有 一 天 ， 一 個 陌生人 出現 在 我 門 前 。
+346.3 ||| appear on doorstep ||| appear:V on n
+346.4 ||| 出現 在^前 門 ||| 出現:V 在^前 n
+
+347.1 ||| She appeared on television with the President
+347.2 ||| 她 與 總統 一起 在 電視 上 露面 。
+347.3 ||| appear on television ||| appear:V on n
+347.4 ||| 在^上 電視 露面 ||| 露面:在^上 n V
+
+348.1 ||| Jane’s name did not appear on the list
+348.2 ||| 珍 的 名字 不 在 名單 上 。
+348.3 ||| appear on list ||| appear:V on n
+348.4 ||| 在 名單 上 ||| 在:V n 上
+
+349.1 ||| After a while her voice really started to grate on me
+349.2 ||| 過 了 一會兒 ， 她 的 聒噪聲 的確 開始 讓 我 心煩 了 。
+349.3 ||| grate on me ||| grate:V on n
+349.4 ||| 讓 我 心煩 ||| 心煩:讓 n V
+
+350.1 ||| His intense stare began to grate on her nerves
+350.2 ||| 他 全神貫注 的 凝視 開始 讓 她 的 神經 受不了 。
+350.3 ||| grate on nerves ||| grate:V on n
+350.4 ||| 讓 神經 受不了 ||| 受不了:讓 n V
+
+351.1 ||| 100000 people are expected to converge on the town for the festival
+351.2 ||| 預計 有 十萬 人 聚集 鎮 上 慶祝 節日 。
+351.3 ||| converge on town ||| converge:V on n
+351.4 ||| 聚集 鎮 上 ||| 聚集:V n 上
+
+352.1 ||| Ambulances police cars and fire engines all converged on the scene
+352.2 ||| 救護車 、 警車 和 消防車 都 聚集 到 現場 。
+352.3 ||| converge on scene ||| converge:V on n
+352.4 ||| 聚集 到 現場 ||| 聚集:V 到 n
+
+353.1 ||| Top diplomats were converging on Washington from all over the world
+353.2 ||| 高級 外交官 從 世界 各 地 聚集 到 華盛頓 。
+353.3 ||| converge on world ||| converge:V on n
+353.4 ||| 聚集 到 華盛頓 ||| 聚集:V 到 n
+
+356.1 ||| You could economize on food by not eating in restaurants all the time
+356.2 ||| 如果 你 不 總是 去 餐廳 吃飯 ， 就 可以 在 吃 這 方面 節省 很多 。
+356.3 ||| economize on food ||| economize:V on n
+356.4 ||| 在 吃_方面 節省 ||| 節省:在 n V
+
+357.1 ||| He was eavesdropping on our conversation
+357.2 ||| 他 在 偷聽 我們 談話 。
+357.3 ||| eavesdrop on conversation ||| eavesdrop:V on n
+357.4 ||| 偷聽 談話 ||| 偷聽:V n
+
+360.1 ||| The committee members agreed on the need for more information
+360.2 ||| 委員會 的 委員 都 同意 需要 有 更多 的 資料 。
+360.3 ||| agree on need ||| agree:V on n
+360.4 ||| 同意 需要 ||| 同意:V v
+
+361.1 ||| People were sent out to snoop on rival businesses
+361.2 ||| 偵探 人員 被 派出 打聽 競爭 對手 的 情況 。
+361.3 ||| snoop on businesses ||| snoop:V on n
+361.4 ||| 打聽 情況 ||| 打聽:V n
+
+362.1 ||| Clara's husband is snooping on her because he thinks she is seeing another man
+362.2 ||| 克拉拉 的 丈夫 正在 打探 她 的 私生活 ， 因 為 他 認 為 她 在 跟 另外 一個 男人 交往 。
+362.3 ||| snoop on her ||| snoop:V on n
+362.4 ||| 打探 她 ||| 打探:V n
+
+363.1 ||| If you renege on the deal now I'll fight you in the courts
+363.2 ||| 如果 你 現在 撕毀 協定 ， 我 會 讓 你 上 法庭 。
+363.3 ||| renege on deal ||| renege:V on n
+363.4 ||| 撕毀 協定 ||| 撕毀:V n
+
+364.1 ||| The official refused to comment on the matter
+364.2 ||| 那 位 官員 拒絕 對 此 事 發表 意見 。
+364.3 ||| comment on matter ||| comment:V on n
+364.4 ||| 對 事 發表 意見 ||| 發表 意見:對 n V N
+
+368.1 ||| She squatted on the ground and warmed her hands by the fire
+368.2 ||| 她 蹲 在 地上 ， 伸出 雙手 烤火 。
+368.3 ||| squat on ground ||| squat:V on n
+368.4 ||| 蹲 在^上 地 ||| 蹲:V 在^上 n
+
+369.1 ||| We simply cannot compromise on the question of human rights
+369.2 ||| 我們 就是 不能 在 人權 問題 上 讓步 。
+369.3 ||| compromise on question ||| compromise:V on n
+369.4 ||| 在^上 問題 讓步 ||| 讓步:在^上 n V
+
+370.1 ||| The truck stalled on the hill
+370.2 ||| 卡車 在 山 上 拋錨 了 。
+370.3 ||| stall on hill ||| stall:V on n
+370.4 ||| 在^上 山 拋錨 ||| 拋錨:在^上 n V
+
+371.1 ||| For years I agonized over whether I could have helped my daughter
+371.2 ||| 多 年 來 ， 我 對 是否 本該 幫 女兒 一 事 感到 極度 痛苦 。
+371.3 ||| agonize over whether ||| agonize:V over n
+371.4 ||| 對 是否_一_事 感到 痛苦 ||| 感到 痛苦:對 n V N
+
+372.1 ||| Judge Langdale is to preside over the official enquiry into the case
+372.2 ||| 蘭代爾 法官 將 主持 這 個 案子 的 正式 調查 。
+372.3 ||| preside over enquiry ||| preside:V over n
+372.4 ||| 主持 調查 ||| 主持:V n
+
+374.1 ||| The Italian team eventually prevailed over Russia 45 – 43
+374.2 ||| 義大利隊 最終 以 45 比 43 擊敗 俄羅斯隊 。
+374.3 ||| prevail over Russia ||| prevail:V over n
+374.4 ||| 擊敗 俄羅斯隊 ||| 擊敗:V n
+
+375.1 ||| When the poet stumbled over a line in the middle of a poem someone in the audience corrected him
+375.2 ||| 詩人 在 朗誦 一 首 詩 的 過程 中 唸錯 了 一 句 ， 聽眾 中 有 人 糾正 了 他 。
+375.3 ||| stumble over line ||| stumble:V over n
+375.4 ||| 念錯 一_句 ||| 念錯:V n
+
+376.1 ||| On his morning run Derek stumbled over a fallen tree
+376.2 ||| 晨跑 時 德 瑞克 被 倒下 的 樹 絆倒 了 。
+376.3 ||| stumble over tree ||| stumble:V over n
+376.4 ||| 被 樹 絆倒 ||| 絆倒:被 n V
+
+378.1 ||| I've been slaving over a hot stove all morning
+378.2 ||| 我 一 上午 都 在 爐子 邊 忙 個 不停 。
+378.3 ||| slave over stove ||| slave:V over n
+378.4 ||| 在^邊 爐子 忙 ||| 忙:在^邊 n V
+
+381.1 ||| Some countries are still haggling over the terms of the treaty
+381.2 ||| 有 些 國家 還 在 為 條約 中 的 條款 細節 爭論 不休 。
+381.3 ||| haggle over terms ||| haggle:V over n
+381.4 ||| 為 細節 爭論 ||| 爭論:為 n V
+
+385.1 ||| to cut through a passage
+385.2 ||| 抄 近 道 穿過 走廊 。
+385.3 ||| cut through passage ||| cut:V through n
+385.4 ||| 穿 過 走廊 ||| 穿:V 過 n
+
+387.1 ||| There was a path running through the middle of the forest
+387.2 ||| 有 條 小路 穿過 森林 中央 。
+387.3 ||| run through middle ||| run:V through n
+387.4 ||| 穿 過 中央 ||| 穿:V 過 n
+
+388.1 ||| If you look through this window you can see the cathedral
+388.2 ||| 透過 這 個 窗子 望出去 ， 你 可以 看到 那 座 教堂 。
+388.3 ||| look through window ||| look:V through n
+388.4 ||| 透過 窗子 望出去 ||| 望出去:透過 n V
+
+390.1 ||| He rifled through the papers on the desk but couldn't find the photographs
+390.2 ||| 他 把 桌 上 的 一 堆 文件 翻 了 個 遍 ， 但是 沒有 找到 照片 。
+390.3 ||| rifle through papers ||| rifle:V through n
+390.4 ||| 把 文件 翻 遍 ||| 翻:把 n V 遍
+
+391.1 ||| She rifled through the contents of her wardrobe looking for the dress
+391.2 ||| 她 在 衣櫥 裏 快速 翻找 洋裝 。
+391.3 ||| rifle through contents ||| rifle:V through n
+391.4 ||| 在^裡 衣櫥 翻 ||| 翻:在^裡 n V
+
+393.1 ||| The noise of the traffic filtered through the heavy curtains
+393.2 ||| 車輛 的 噪音 透過 厚重 的 窗簾 傳進來 。
+393.3 ||| filter through curtains ||| filter:V through n
+393.4 ||| 透過 窗簾 傳進來 ||| 傳進來:透過 n V
+
+395.1 ||| They had to drill through the mountainside
+395.2 ||| 他們 只好 把 山腰 鑿穿 。
+395.3 ||| drill through mountainside ||| drill:V through n
+395.4 ||| 把 山腰 鑿穿 ||| 鑿穿:把 n V
+
+402.1 ||| The Queen speaks to the nation on television every Christmas
+402.2 ||| 每年 聖誕節 女王 都 會 在 電視 上 向 全 國 發表 演說 。
+402.3 ||| speak to nation ||| speak:V to n
+402.4 ||| 向 全國 發表 演說 ||| 發表 演說:向 n V N
+
+408.1 ||| We’ve got people coming to dinner tonight
+408.2 ||| 我們 家 今晚 有 客人 來 吃飯 。
+408.3 ||| come to dinner ||| come:V to v
+408.4 ||| 來 吃飯 ||| 來:V v
+
+415.1 ||| We subscribe to all the main medical journals
+415.2 ||| 所有 主要 的 醫學 期刊 我們 都 有 訂閱 。
+415.3 ||| subscribe to journals ||| subscribe:V to n
+415.4 ||| 訂閱 期刊 ||| 訂閱:V n
+
+417.1 ||| We need to move to the next item on the agenda
+417.2 ||| 我們 需要 轉到 下 一 項 議程 上 。
+417.3 ||| move to item ||| move:V to n
+417.4 ||| 轉 到^上 議程 ||| 轉:V 到^上 n
+
+418.1 ||| The bank refuses to lend to students
+418.2 ||| 銀行 拒絕 向 學生 們 發放 貸款 。
+418.3 ||| lend to students ||| lend:V to n
+418.4 ||| 向 學生 發放 貸款 ||| 發放 貸款:向 n V N
+
+419.1 ||| We always try to give to charity
+419.2 ||| 我們 總是 盡量 向 慈善 機構 捐款 捐 物 。
+419.3 ||| give to charity ||| give:V to n
+419.4 ||| 向 慈善_機構 捐款 ||| 捐款:向 n V
+
+421.1 ||| The road clings to (= closely follows) the coastline for several miles then it turns inland
+421.2 ||| 這 條 路 沿 海岸線 延伸 了 幾 英里 ， 然後 轉向 內陸 。
+421.3 ||| cling to coastline ||| cling:V to n
+421.4 ||| 沿 海岸線 延伸 ||| 延伸:沿 n V
+
+430.1 ||| I hope I live to see my grandchildren
+430.2 ||| 我 希望 我 能 活 到 看見 我 孫輩 的 那 一 天 。
+430.3 ||| live to see ||| live:V to vp
+430.4 ||| 活 到 看見 ||| 活:V 到 v
+
+432.1 ||| Despite her unhealthy lifestyle Aunt Joan lived to be 86
+432.2 ||| 儘管 瓊 阿姨 的 生活 方式 不 健康 ， 她 卻 活 到 了 86 歲 。
+432.3 ||| live to be ||| live:V to vp
+432.4 ||| 活 到 歲 ||| 活:V 到 n
+
+440.1 ||| She hasn't written to me (US also written me) recently
+440.2 ||| 她 最近 沒有 給 我 寫信 。
+440.3 ||| write to me ||| write:V to n
+440.4 ||| 給 我 寫信 ||| 寫信:給 n V
+
+443.1 ||| He fell to his death climbing the Matterhorn
+443.2 ||| 他 在 攀登 馬特 杭峰 時 摔死 了 。
+443.3 ||| fall to death ||| fall:V to n
+443.4 ||| 摔死 ||| 摔死:V
+
+445.1 ||| Rome fell to the Vandals in AD 455
+445.2 ||| 羅馬 在 西元 455年 被 汪達爾人 攻陷 。
+445.3 ||| fall to the_Vandals ||| fall:V to n
+445.4 ||| 被 汪達爾人 攻陷 ||| 攻陷:被 n V
+
+446.1 ||| The constituency fell to Labour at the last election after ten years of Conservative rule
+446.2 ||| 在 保守黨 主導 十 年 之後 ， 這 個 選區 在 上 屆 選舉 中 落入 了 工黨 手 中 。
+446.3 ||| fall to Labour ||| fall:V to n
+446.4 ||| 落 入 工黨 ||| 落:V 入 n
+
+448.1 ||| A climber fell to his death today
+448.2 ||| 今天 有 個 登山 者 摔死 了 。
+448.3 ||| fall to death ||| fall:V to n
+448.4 ||| 摔死 ||| 摔死:V
+
+460.1 ||| The newspaper reports of the discussion only roughly approximated to (= were not exactly the same as) what was actually said
+460.2 ||| 報紙 關於 這 次 商討 的 報導 並 不 完全 符合 實際 。
+460.3 ||| approximate to what ||| approximate:V to n
+460.4 ||| 符合 實際 ||| 符合:V n
+
+461.1 ||| Spain was admitted to the European Community in 1986
+461.2 ||| 西班牙 於 1986年 被 接納 為 歐洲 共同體 成員 。
+461.3 ||| admit to Community ||| admit:V to n
+461.4 ||| 接納 為 共同體_成員 ||| 接納:V 為 n
+
+471.1 ||| Very reluctantly I've consented to lend her my car
+471.2 ||| 我 很 不 情願 地 答應 把 車 借給 她 。
+471.3 ||| consent to lend ||| consent:V to vp
+471.4 ||| 答應 借 ||| 答應:V v
+
+482.1 ||| She admitted lying to the police
+482.2 ||| 她 承認 對 警方 撒 了 謊 。
+482.3 ||| lie to police ||| lie:V to n
+482.4 ||| 對 警方 撒 謊 ||| 撒 謊: 對 n V N
+
+483.1 ||| The subsidies are to enable farmers to convert to organic production methods
+483.2 ||| 補貼 是 為了 讓 農民 改用 有機 農業 生產 方法 。
+483.3 ||| convert to method ||| convert:V to n
+483.4 ||| 改用 方法 ||| 改用:V n
+
+486.1 ||| A few of us knew what was going to happen but we were sworn to secrecy (= we were made to promise to keep it a secret)
+486.2 ||| 我們 幾 個 人 都 知道 會 發生 甚麼 事 ， 但 我們 已 發 過 誓 要 對 此 保密 。
+486.3 ||| swear to secrecy ||| swear:V to n
+486.4 ||| 發 誓 保密 ||| 發 誓:V N v
+
+487.1 ||| We started off talking about the weather and gradually the conversation progressed to politics
+487.2 ||| 我們 從 談論 天氣 開始 ， 話題 逐漸 轉向 政治 。
+487.3 ||| progress to politics ||| progress:V to n
+487.4 ||| 轉 向 政治 ||| 轉:V 向 n
+
+488.1 ||| I try to reply to letters the day I receive them
+488.2 ||| 我 儘量 在 收到 信 的 當天 就 回信 。
+488.3 ||| reply to letters ||| reply:V to n
+488.4 ||| 回信 ||| 回信:V
+
+495.1 ||| I must apologize to Isobel for my lateness
+495.2 ||| 我 遲到 了 ， 必須 向 伊莎貝爾 道 個 歉 。
+495.3 ||| apologize to Isobel ||| apologize:V to n
+495.4 ||| 向 伊莎貝爾 道 歉 ||| 道 歉:向 n V N
+
+499.1 ||| The police are appealing to the public for any information about the missing girl
+499.2 ||| 警方 正向 公眾 求助 ， 請 他們 提供 有關 失蹤 女孩 的 任何 資料 。
+499.3 ||| appeal to public ||| appeal:V to n
+499.4 ||| 向 公眾 求助 ||| 求助:向 n V
+
+500.1 ||| They're appealing to the court to reduce the sentence to a fine
+500.2 ||| 他們 正向 法院 提出 上訴 ， 要求 將 判刑 改為 罰款 。
+500.3 ||| appeal to court ||| appeal:V to n
+500.4 ||| 向 法院 提出 上訴 ||| 提出 上訴:向 n V N
+
+502.1 ||| The British spy Kim Philby defected to the Soviet Union/defected from Britain in 1963
+502.2 ||| 英國 間諜金 ‧ 菲爾 比 於 1963年 叛 逃到 了 蘇聯 。
+502.3 ||| defect to the_Soviet_Union ||| defect:V to n
+502.4 ||| 逃 到 蘇聯 ||| 逃:V 到 n
+
+507.1 ||| The pillars began to buckle under the strain
+507.2 ||| 柱子 在 重壓 下 開始 變形 。
+507.3 ||| buckle under strain ||| buckle:V under n
+507.4 ||| 在^下 重壓 變形 ||| 變形:在^下 n V
+
+510.1 ||| We only deal with companies which have a good credit record
+510.2 ||| 我們 只 與 信譽 良好 的 公司 做生意 。
+510.3 ||| deal with companies ||| deal:V with n
+510.4 ||| 與 公司 做生意 ||| 做生意:與 n V
+
+511.1 ||| My daughter used to play with the kids next door
+511.2 ||| 我 女兒 以前 常 跟 隔壁 的 孩子 們 玩 。
+511.3 ||| play with kids ||| play:V with n
+511.4 ||| 跟 孩子_們 玩 ||| 玩:跟 n V
+
+517.1 ||| I agree with you on this issue
+517.2 ||| 在 這 個 問題 上 我 贊同 你 的 意見 。
+517.3 ||| agree with you ||| agree:V with n
+517.4 ||| 贊同 你 的 意見 ||| 贊同:V n
+
+518.1 ||| I agree with my mother about most things
+518.2 ||| 我 與 母親 在 大多數 事情 上 意見 都 相同 。
+518.3 ||| agree with mother ||| agree:V with n
+518.4 ||| 與 母親 意見 相同 ||| 意見 相同: 與 n N ADJ
+
+519.1 ||| The observations agree with the predictions we made earlier
+519.2 ||| 觀察 的 結果 與 我們 稍早 的 預測 相符 。
+519.3 ||| agree with predictions ||| agree:V with n
+519.4 ||| 與 預測 相符 ||| 相符:與 n V
+
+524.1 ||| When you move house you need to register with a local doctor
+524.2 ||| 你 搬家 時 ， 必須 到 當地 醫生 那裏 去 登記 。
+524.3 ||| register with doctor ||| register:V with n
+524.4 ||| 到 醫生 那裏 登記 ||| 登記:到 n V
+
+527.1 ||| His lawyers have decided not to proceed with the case
+527.2 ||| 他 的 律師 已經 決定 不再 繼續 打 那 場 官司 了 。
+527.3 ||| proceed with case ||| proceed:V with n
+527.4 ||| 繼續 打 官司 ||| 繼續:V v n
+
+528.1 ||| She appeared on television to plead with the kidnappers
+528.2 ||| 她 出現 在 電視 上 ， 向 綁架者 求情 。
+528.3 ||| plead with kidnappers ||| plead:V with n
+528.4 ||| 向 綁架者 求情 ||| 求情:向 n V
+
+530.1 ||| Her statement checks with most of the eye-witness reports
+530.2 ||| 她 的 陳述 與 大多數 目擊 證人 的 報告 相 吻合 。
+530.3 ||| check with report ||| check:V with n
+530.4 ||| 與 報告 吻合 ||| 吻合:與 n V
+
+533.1 ||| The word "cat" begins with the letter "c"
+533.2 ||| 單詞 cat 以 字母 c 開頭 。
+533.3 ||| begin with letter ||| begin:V with n
+533.4 ||| 以 字母 開頭 ||| 開頭:以 n V
+
+540.1 ||| I'd like to end with a song from my first album
+540.2 ||| 我 想 以 我 第一 張 專輯 裡 的 一 首 歌 來 結束 演出 。
+540.3 ||| end with song ||| end:V with n
+540.4 ||| 以 歌 結束 ||| 結束:以 n V
+
+541.1 ||| I wish the government would stop tinkering with the health service
+541.2 ||| 我 希望 政府 不要 再 在 公共 醫療 衛生 服務 上 折騰 了 。
+541.3 ||| tinker with service ||| tinker:V with n
+541.4 ||| 在^上 服務 折騰 ||| 折騰:在^上 n V
+
+551.1 ||| Neil is colour-blind and cannot differentiate between red and green
+551.2 ||| 尼爾 是 色盲 ， 無法 區分 紅色 和 綠色 。
+551.3 ||| differentiate between red_and_green ||| differentiate:V between pl-n
+551.4 ||| 區分 紅色 和 綠色 ||| 區分:V n 和 n
+
+554.1 ||| She is forced to choose between her husband and her parents
+554.2 ||| 她 被迫 在 丈夫 和 父母 之間 作出 選擇 。
+554.3 ||| choose between husband_and_parents ||| choose:V between pl-n
+554.4 ||| 在^之間 丈夫 和 父母 選擇 ||| 選擇:在 n 和 n 之間 V
+
+558.1 ||| Prices are expected to decrease by less than 1 per cent this year
+558.2 ||| 今年 物價 可望 降低 不 到 1％ 。
+558.3 ||| decrease by cent ||| decrease:V by amount
+558.4 ||| 降低 到 1% ||| 降低:V 到 n
+
+563.1 ||| For several years she lived by begging
+563.2 ||| 她 以 乞討 為生 過 了 好幾 年 。
+563.3 ||| live by begging ||| live:V by ving
+563.4 ||| 以 乞討 為生 ||| 為生:以 n V
+
+564.1 ||| The Aymaras live by hunting and fishing in the Desaguadero river
+564.2 ||| 艾馬拉 族人 靠在 迪薩瓜德羅河 狩獵 和 捕 魚 為生 。
+564.3 ||| live by hunting ||| live:V by ving
+564.4 ||| 靠 狩獵 為生 ||| 為生:靠 n V
+
+565.1 ||| Flying still ranks among the safest forms of travel
+565.2 ||| 乘 飛機 仍然 被 列為 最 安全 的 旅行 方式 之 一 。
+565.3 ||| rank among forms ||| rank:V among pl-n
+565.4 ||| 列為 方式_之_一 ||| 列為:V n
+
+569.1 ||| He barged past me without looking
+569.2 ||| 他 看 也 不 看 就 從 我 身邊 闖過 去 。
+569.3 ||| barge past me ||| barge:V past n
+569.4 ||| 從 我_身邊 闖過去 ||| 闖過去:從 n V
