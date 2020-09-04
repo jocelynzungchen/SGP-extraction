@@ -64,3 +64,5 @@ Code:
 ### Execution
 
 follow the steps in **build_SGP_model.ipynb**.
+
+All files are on the server. path: jedi:/home/nlplab/jocelyn/SGP-extraction
