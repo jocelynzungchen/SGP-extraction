@@ -11,13 +11,13 @@ example pattern instance: `talk to people | 跟 人 說話`
 <img src="https://github.com/jocelynzungchen/SGP-extraction/blob/master/images/method_part1.png" width="50%" height="50%">
 
 Input:
-> `**seq_label_data_v2.txt**`: processed data from GRAMMAR PATTERN & Collins Online Dictionary
+> **`seq_label_data_v2.txt`**: processed data from GRAMMAR PATTERN & Collins Online Dictionary
 
 Code:
-> `**pattern_recognition.ipynb**`: build the crf model for automatically identifying English grammar patterns
+> **`pattern_recognition.ipynb`**: build the crf model for automatically identifying English grammar patterns
 
 Output:
-> `**crf_model_passive.pkl**`: crf model (to automatically identify English grammar patterns for a given sentence)
+> **`crf_model_passive.pkl`**: crf model (to automatically identify English grammar patterns for a given sentence)
 
 <br>
 2. Extract SGPs from parallel corpus (discover the counterpart of the identified English grammar patterns)
